@@ -2,7 +2,7 @@
 
 #### Pull Request Guidelines
 
-* Make sure your pull request addresses a specific issue or proposes a specific improvement.
-* Keep pull requests focused on a single issue or improvement.
-* Ensure your code is well-documented and follows the project's coding standards.
-* Provide clear and detailed information in your pull request description.
+* Asegúrese de que su solicitud de extracción aborde un problema específico o proponga una mejora específica.&#x20;
+* Mantenga las solicitudes de extracción centradas en un único problema o mejora.&#x20;
+* Asegúrese de que su código esté bien documentado y siga los estándares de codificación del proyecto.&#x20;
+* Proporcione información clara y detallada en la descripción de su solicitud de extracción.
