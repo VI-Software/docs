@@ -1,35 +1,33 @@
 # 📔 Contribution Guidelines
 
-Thank you for considering contributing to our open-source community! By participating in this project, you are helping to make it better for everyone. Below are some guidelines to ensure a smooth and collaborative contribution process: Code of Conduct
-
-Before getting started, please familiarize yourself with our Code of Conduct. We are committed to fostering an inclusive and respectful community. How to Contribute.
+¡Gracias por considerar contribuir a nuestra comunidad de código abierto! Al participar en este proyecto, estás ayudando a mejorarlo para todos. A continuación se presentan algunas pautas para garantizar un proceso de contribución fluido y colaborativo: Código de conducta Antes de comenzar, familiarícese con nuestro Código de conducta. Estamos comprometidos a fomentar una comunidad inclusiva y respetuosa. Cómo contribuir.
 
 <pre class="language-bash"><code class="lang-bash">git clone https://github.com/you<a data-footnote-ref href="#user-content-fn-1">r</a>-username/repository.git
 </code></pre>
 
-**Create a Branch:** Create a new branch for your contribution.
+**Crear una sucursal:** crea una nueva sucursal para tu contribución.
 
 ```bash
 git checkout -b feature/your-feature
 ```
 
-**Make Changes**: Make your changes to the codebase. Ensure that your code adheres to the project's coding standards.
+**Realizar cambios:** realice sus cambios en el código base. Asegúrese de que su código cumpla con los estándares de codificación del proyecto.&#x20;
 
-**Commit Changes**: Commit your changes with a clear and concise commit message.
+**Confirmar cambios:** confirme sus cambios con un mensaje de confirmación claro y conciso.
 
 ```bash
-git commit -m "Add your concise commit message here"
+git commit -m "Comentario tuyo"
 ```
 
-**Push Changes:** Push your changes to your forked repository.
+**Push Changes:** Envía tus cambios a tu repositorio bifurcado.
 
 ```bash
 git push origin feature/your-feature
 ```
 
-Create a pull request from your branch to the main repository. Provide a detailed description of your changes.
+Cree una solicitud de extracción desde su sucursal al repositorio principal. Proporcione una descripción detallada de sus cambios.
 
-**Please check out our** [**pull request guidelines** ](pull-request-guidelines.md)**before submitting one.**
+## **Consulte** [pull-request-guidelines.md](pull-request-guidelines.md "mention") **antes de enviar una pull request.**
 
 
 
