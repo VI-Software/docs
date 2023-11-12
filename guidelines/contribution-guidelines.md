@@ -29,12 +29,6 @@ Cree una solicitud de extracción desde su sucursal al repositorio principal. Pr
 
 ## **Consulte** [pull-request-guidelines.md](pull-request-guidelines.md "mention") **antes de enviar una pull request.**
 
-
-
-Your contribution is invaluable to us. We appreciate your effort and time spent on improving this project. Together, we can make it even better!
-
-If you have any questions or need further clarification, feel free to reach out to us.
-
-Happy coding!
+Tu contribución es invaluable para nosotros. Agradecemos su esfuerzo y tiempo dedicado a mejorar este proyecto. ¡Juntos podemos hacerlo aún mejor! Si tiene alguna pregunta o necesita más aclaraciones, no dude en comunicarse con nosotros. ¡Feliz codificación!
 
 [^1]: 
