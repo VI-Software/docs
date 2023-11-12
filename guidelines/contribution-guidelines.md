@@ -29,7 +29,7 @@ git push origin feature/your-feature
 
 Create a pull request from your branch to the main repository. Provide a detailed description of your changes.
 
-**Please check out our pull request guidelines before submitting one.**
+**Please check out our** [**pull request guidelines** ](pull-request-guidelines.md)**before submitting one.**
 
 
 
