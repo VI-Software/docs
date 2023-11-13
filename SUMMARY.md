@@ -2,7 +2,8 @@
 
 * [VI Software](README.md)
 * [VIS' Launcher](vis-launcher/README.md)
-  * [📒 Política de Privacidad de VIS Launcher](vis-launcher/politica-de-privacidad-de-vis-launcher.md)
+  * [📔 Términos de Uso](vis-launcher/terminos-de-uso.md)
+  * [📒 Política de Privacidad](vis-launcher/politica-de-privacidad.md)
   * [🎮 Descarga e instalación del launcher](vis-launcher/descarga-e-instalacion-del-launcher.md)
 * [Guidelines](guidelines/README.md)
   * [📔 Código de Conducta](guidelines/codigo-de-conducta.md)

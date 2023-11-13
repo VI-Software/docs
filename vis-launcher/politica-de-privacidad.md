@@ -1,10 +1,10 @@
-# 📒 Política de Privacidad de VIS Launcher
+# 📒 Política de Privacidad
 
 _Última actualización: 13.112023_
 
 Bienvenido/a a VIS Launcher, una aplicación desarrollada por VI Software. En VI Software, nos esforzamos por proteger y respetar tu privacidad. Esta Política de Privacidad tiene como objetivo explicar cómo recopilamos, utilizamos y protegemos la información personal que nos confías a través de VIS Launcher.
 
-#### Información Recopilada
+
 
 **Datos de Inicio de Sesión**
 
