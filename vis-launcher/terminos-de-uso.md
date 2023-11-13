@@ -44,7 +44,13 @@ Bienvenido/a a VIS Launcher, una aplicación desarrollada por VI Software. Al ut
 
 7.1. VI Software se reserva el derecho de modificar estos Términos de Uso en cualquier momento. Se te notificará sobre cambios significativos a través de la plataforma o mediante otros medios.
 
-#### 8. Contacto
+
+
+8. **Términos de servicio de VI Software**&#x20;
+
+8.1 Los Términos de servicio de VI Software son aplicables a estos términos
+
+9. &#x20;**Contacto**
 
 Si tienes preguntas o inquietudes sobre estos Términos de Uso, por favor contáctanos a través de Discord.
 
