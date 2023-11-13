@@ -2,56 +2,64 @@
 
 _Última actualización: 13.11.2023_
 
-Bienvenido/a a VIS Launcher, una aplicación desarrollada por VI Software. Al utilizar VIS Launcher, aceptas los siguientes términos y condiciones. Por favor, léelos cuidadosamente antes de continuar.
+Por favor, lea atentamente estos Términos de Servicio ("Términos") antes de utilizar los servicios ofrecidos por Vi Software ("nosotros", "nuestro" o "la Compañía"). Al utilizar nuestros servicios, usted acepta estar legalmente vinculado por estos Términos, por lo que le recomendamos que los lea detenidamente.
 
-#### 1. Uso de VIS Launcher
+1. **Respeto y no discriminación**
 
-1.1. VIS Launcher es proporcionado por VI Software para facilitar el acceso y la gestión de modpacks para juegos. Al utilizar la aplicación, te comprometes a respetar todas las leyes y regulaciones aplicables.
+En VI Software, estamos comprometidos con la promoción del respeto y la no discriminación. Todos los usuarios deben tratar a los demás con cortesía y respeto, independientemente de sus credenciales, origen étnico, orientación sexual, género, religión o cualquier otra característica personal. No se tolerarán comentarios, actitudes o comportamientos discriminatorios, ofensivos o acosadores dentro de nuestra comunidad.
 
-1.2. Te comprometes a utilizar VIS Launcher de manera responsable y ética, sin incurrir en actividades ilegales, fraudulentas o que violen los derechos de otros usuarios.
+2. **Legislación Aplicable**
 
-#### 2. Cuenta y Seguridad
+Al utilizar nuestros servicios, los usuarios están sujetos a la legislación aplicable en las plataformas que utilizamos, como Discord y Minecraft. Los usuarios deben cumplir con los términos de servicio y las políticas de estas plataformas, y la violación de dichos términos puede resultar en acciones disciplinarias por parte de Vi Software.
 
-2.1. Para acceder a ciertas funciones de VIS Launcher, es posible que necesites crear una cuenta. Es tu responsabilidad mantener la confidencialidad de tu información de inicio de sesión y tomar las medidas necesarias para proteger tu cuenta.
+3. **Derechos de VI Software**
 
-2.2. Informarás a VI Software de inmediato sobre cualquier uso no autorizado de tu cuenta o cualquier otra violación de seguridad.
+Nos reservamos el derecho de tomar medidas, incluyendo, pero no limitándose a, terminar, suspender o desuspender cuentas de usuarios, en caso de violación de estos Términos o comportamientos que consideremos inapropiados o perjudiciales para la comunidad. Nosotros, en nuestra discreción, decidiremos qué medidas tomar.
 
-#### 3. Modificaciones en la Aplicación
+4. **Normativa de Convivencia**
 
-3.1. VI Software se reserva el derecho de realizar modificaciones, actualizaciones o mejoras en VIS Launcher en cualquier momento y sin previo aviso.
+Los usuarios se comprometen a seguir normas básicas de convivencia en nuestra plataforma. Esto incluye el respeto mutuo, la colaboración constructiva y la participación positiva en la comunidad. Cualquier comportamiento que viole estas normas puede dar lugar a medidas disciplinarias.
 
-3.2. VI Software no será responsable de cualquier interrupción en el servicio o pérdida de datos como resultado de dichas modificaciones.
+5. **Normativa sobre Contenido para Mayores de Edad y Pornografía**
 
-#### 4. Conexiones Externas
+Queda estrictamente prohibido compartir, publicar o promover contenido para mayores de edad, incluida la pornografía, en nuestros servidores y plataformas. La violación de esta norma resultará en medidas disciplinarias, incluyendo, pero no limitada a la suspensión o terminación de la cuenta.
 
-4.1. VIS Launcher puede conectarse a servidores externos, incluidos pero no limitados a los de VI Software, Mojang y Microsoft, para la descarga de modpacks y la verificación del estado de los servidores.
+6. **Normativa de Servidores**
 
-4.2. VI Software no se hace responsable de los servicios proporcionados por terceros y recomienda revisar sus políticas de privacidad y términos de uso.
+Cada servidor alojado por VI Software tiene su propia normativa específica, en conformidad con los términos vigentes de nuestra plataforma. Es responsabilidad de los usuarios familiarizarse y cumplir con las reglas y pautas establecidas por el servidor al que acceden. Los servidores pueden implementar sus propias sanciones por incumplimiento de su normativa. VI Software se reserva el derecho de estudiar de forma global un caso en concreto, aunque el usuario no haya incumplido normativa global o los vigentes términos. Ningún servidor podrá oponerse a los vigentes términos o a la normativa global establecida.
 
-#### 5. Propiedad Intelectual
+7. **Contenido Generado por Usuarios**
 
-5.1. VIS Launcher, incluyendo su diseño, logotipos, y todo el contenido asociado, son propiedad de VI Software y están protegidos por leyes de propiedad intelectual.
+Todo el contenido generado por los usuarios en nuestros servidores y plataformas es responsabilidad de sus respectivos autores. No nos hacemos responsables de dicho contenido. Sin embargo, nos reservamos el derecho de eliminar o tomar medidas contra contenido que viole estos Términos o las reglas del servidor, si es necesario.
 
-5.2. No tienes derecho a reproducir, distribuir, o modificar ninguna parte de VIS Launcher sin el consentimiento expreso de VI Software.
+8. **Limitaciones para servidores**
 
-#### 6. Limitación de Responsabilidad
+Los servidores alojados por VI Software deben adherirse a ciertas pautas para mantener un ambiente seguro y positivo para todos los usuarios. Por lo tanto, se prohíbe expresamente lo siguiente:
 
-6.1. VIS Launcher se proporciona "tal cual" y VI Software no garantiza su disponibilidad, rendimiento o idoneidad para un propósito particular.
+a. **Contenido para Mayores de Edad y Pornografía:** Los servidores no pueden compartir, publicar o promover contenido para mayores de edad, incluida la pornografía.
 
-6.2. VI Software no será responsable de cualquier daño directo, indirecto, incidental, especial o consecuente derivado del uso o la imposibilidad de usar VIS Launcher.
+b. **Discriminación y Acoso:** No se tolerará ninguna forma de discriminación, acoso o comportamiento ofensivo hacia cualquier usuario o grupo de usuarios en los servidores.
 
-#### 7. Cambios en los Términos de Uso
+c. **Incitación a la Violencia o Daño:** Los servidores no deben permitir la promoción de la violencia, el daño físico o cualquier forma de conducta perjudicial.
 
-7.1. VI Software se reserva el derecho de modificar estos Términos de Uso en cualquier momento. Se te notificará sobre cambios significativos a través de la plataforma o mediante otros medios.
+d. **Violación de Derechos de Autor:** No se permite la distribución de contenido protegido por derechos de autor sin la debida autorización.
 
+e. **Engaño y Fraude:** Queda prohibido llevar a cabo actividades engañosas, fraudulentas o cualquier acción que pueda perjudicar a otros usuarios.
 
+f. **Abuso de Errores o Vulnerabilidades:** Los servidores no deben aprovechar errores o vulnerabilidades en el software para obtener ventajas injustas o comprometer la integridad del sistema.
 
-8. **Términos de servicio de VI Software**&#x20;
+g. **Publicidad Engañosa:** Los servidores no deben realizar publicidad engañosa o falsa que pueda inducir a error a los usuarios.
 
-8.1 Los Términos de servicio de VI Software son aplicables a estos términos
+h. **Actividades Ilegales:** Está estrictamente prohibido llevar a cabo actividades ilegales en los servidores, y cualquier forma de participación en actividades ilegales resultará en acciones disciplinarias.
 
-9. &#x20;**Contacto**
+i. **Violación de Privacidad:** Los servidores no deben invadir la privacidad de los usuarios, divulgar información personal sin consentimiento o realizar seguimientos no autorizados.
 
-Si tienes preguntas o inquietudes sobre estos Términos de Uso, por favor contáctanos a través de Discord.
+j. **Uso de Modificaciones No Autorizadas:** No se permite el uso de modificaciones no autorizadas que puedan afectar negativamente la experiencia de juego de otros usuarios o comprometer la seguridad del sistema.
 
-**Al utilizar VIS Launcher, aceptas cumplir con estos términos y condiciones.** Agradecemos tu colaboración y confianza en nuestro servicio.
+k. **Incumplimiento de Normativas de la Plataforma:** Los servidores deben cumplir con las normativas de las plataformas en las que operan, como Discord y Minecraft, y la violación de estas normativas puede resultar en acciones disciplinarias por parte de VI Software.
+
+VI Software se reserva el derecho de investigar y tomar medidas contra cualquier servidor que se encuentre en violación de estas prohibiciones. Las acciones disciplinarias pueden incluir la suspensión o terminación del servicio para el servidor infractor.
+
+8. **Modificaciones de los Términos**
+
+Nos reservamos el derecho de modificar estos Términos en cualquier momento. Las modificaciones entrarán en vigencia tan pronto como se publiquen en nuestros sitios web o plataformas. Se recomienda a los usuarios revisar estos Términos periódicamente para estar al tanto de las actualizaciones. Al utilizar los servicios de Vi Software, usted acepta cumplir con estos Términos de Servicio. Si no está de acuerdo con estos términos, le pedimos que no utilice nuestros servicios.
