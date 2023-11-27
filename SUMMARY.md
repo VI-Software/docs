@@ -5,6 +5,7 @@
   * [📔 Términos de Uso](vis-launcher/terminos-de-uso.md)
   * [📒 Política de Privacidad](vis-launcher/politica-de-privacidad.md)
   * [🎮 Descarga e instalación del launcher](vis-launcher/descarga-e-instalacion-del-launcher.md)
+  * [🔼 Actualizar el launcher desde versiones anteriores a Relase 1.5.2](vis-launcher/actualizar-el-launcher-desde-versiones-anteriores-a-relase-1.5.2.md)
 * [Guidelines](guidelines/README.md)
   * [📔 Código de Conducta](guidelines/codigo-de-conducta.md)
   * [📔 Contribution Guidelines](guidelines/contribution-guidelines.md)
