@@ -1,6 +1,7 @@
 # Table of contents
 
 * [VI Software](README.md)
+  * [🧑🤝🧑 Contribuidores](vi-software/contribuidores.md)
 * [VIS' Launcher](vis-launcher/README.md)
   * [📔 Términos de Uso](vis-launcher/terminos-de-uso.md)
   * [📒 Política de Privacidad](vis-launcher/politica-de-privacidad.md)
