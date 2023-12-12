@@ -1,12 +1,16 @@
-# 🎮 Descarga e instalación del launcher
+# 🎮 Descarga e instalación del launcher en Windows
 
 1. Dirígete a [<mark style="color:blue;">https://github.com/VI-Software/vis-launcher/releases</mark>](https://github.com/VI-Software/vis-launcher/releases)
 2. Busca la versión estable más reciente (De forma predeterminada están ordenadas por más nueva a más antigua)
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>En este ejemplo, la versión más reciente es 1.0.2</p></figcaption></figure>
 
-3. Descarga la versión compatible con tu sistema operativo, en este ejemplo utilizaremos Windows.
-4. Abre el archivo con doble clic, es posible que una pantalla así aparezca:
+3. Descarga la versión compatible con tu sistema operativo, En este tutorial estamos cubriendo Windows, así es que descargaremos **VI-Software-Launcher-setup-(número de la versión).exe**&#x20;
+4. A partir de la Beta 1.6.3 el asistente de instalación incluye una copia de la licencia en Windows, para continuar con el proceso consulte la licencia con detenimiento y haga clic en "I agree" (Acepto) tal y como se muestra en la imagen.
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+3. Abre el archivo con doble clic, es posible que una pantalla así aparezca:
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
