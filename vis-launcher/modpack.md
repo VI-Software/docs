@@ -1,0 +1,15 @@
+# ❗ Probar VIS launcher
+
+### Quiere automatizar el proceso de descarga y de automatización de actualización de nuestros modpacks? Pruebe VI Software Launcher (VIS Launcher) el launcher de VI Software. Descargo [aquí](https://github.com/VI-Software/vis-launcher/releases)
+
+
+
+
+
+{% hint style="warning" %}
+**V**_**I Software**_ recomienda el uso del launcher, este método es mantenido por motivos de accesibilidad. **No se ofrece soporte respecto mods y configuraciones a los usuarios que no utilicen el launcher de **_**VI Software**_**.**
+{% endhint %}
+
+Versión: **required-1.0.30.zip**\
+Link: [https://mega.nz/file/6tAjHT5C#d4GyhEIl3LhC3N-LaHrGypEjOn6IWhN1Ru1mBEA4rOo](https://mega.nz/file/6tAjHT5C#d4GyhEIl3LhC3N-LaHrGypEjOn6IWhN1Ru1mBEA4rOo)
+
