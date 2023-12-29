@@ -11,5 +11,5 @@ Quiere automatizar el proceso de descarga y de automatización de actualización
 {% endhint %}
 
 Versión: required(1.0.32).zip\
-Link: [https://mega.nz/file/P4hyzRzI#cvugn3DQVLXoIqNjBdldPwb\_md7DIpgzG3iyeqfUx70](https://mega.nz/file/P4hyzRzI#cvugn3DQVLXoIqNjBdldPwb\_md7DIpgzG3iyeqfUx70)
+Link: [https://mega.nz/file/usJmFb7C#IB0AYP9vmgJMSdQrHzdoZH6C9S380IvJHZFC\_1hRCp8](https://mega.nz/file/usJmFb7C#IB0AYP9vmgJMSdQrHzdoZH6C9S380IvJHZFC\_1hRCp8)
 
