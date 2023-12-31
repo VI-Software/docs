@@ -1,31 +1,57 @@
 # 📒 Política de Privacidad
 
-_Última actualización: 13.112023_
+## **Política de Privacidad de VIS Launcher**
 
-Bienvenido/a a VIS Launcher, una aplicación desarrollada por VI Software. En VI Software, nos esforzamos por proteger y respetar tu privacidad. Esta Política de Privacidad tiene como objetivo explicar cómo recopilamos, utilizamos y protegemos la información personal que nos confías a través de VIS Launcher.
+**Última actualización: 31 de diciembre de 2023**
 
+Bienvenido/a a VIS Launcher, una aplicación desarrollada por VI Software. En VI Software, valoramos y respetamos tu privacidad. Esta Política de Privacidad tiene como objetivo explicar cómo recopilamos, utilizamos y protegemos la información personal que nos confías a través de VIS Launcher.
 
+### **1. Datos de Inicio de Sesión**
 
-**Datos de Inicio de Sesión**
+#### 1.1. **Recopilación de Información:**
 
-Cuando utilizas VIS Launcher, recopilamos la información necesaria para el inicio de sesión, que puede incluir tu nombre de usuario y contraseña. VIS Launcher establece conexiones con los servidores de VI Software, Mojang y Microsoft para descargar modpacks, comprobar el estado de los servidores y verificar el estado de autenticación.
+* Al utilizar VIS Launcher, recopilamos la información necesaria para el inicio de sesión, que puede incluir tu nombre de usuario y contraseña.
 
-**Datos Técnicos**
+#### 1.2. **Conexiones con Servidores:**
 
-Además de la información de inicio de sesión, VIS Launcher puede recopilar datos técnicos, como la configuración del dispositivo, la dirección IP, el tipo de dispositivo y la versión del sistema operativo. Estos datos se utilizan para mejorar la experiencia del usuario y garantizar la compatibilidad.
+* VIS Launcher establece conexiones con los servidores de VI Software para facilitar la descarga de modpacks, comprobar el estado de los servidores y verificar la autenticación.
 
-#### Uso de la Información
+### **2. Datos Técnicos**
 
-La información recopilada se utiliza exclusivamente para facilitar la funcionalidad de VIS Launcher. Esto incluye la descarga de modpacks, la verificación del estado de los servidores de VI Software, Mojang y Microsoft, así como la mejora continua de la aplicación. No compartiremos ni divulgaremos tu información con terceros sin tu consentimiento explícito, a menos que lo requiera la ley.
+#### 2.1. **Recopilación Adicional:**
 
-#### Seguridad de la Información
+* VIS Launcher puede recopilar datos técnicos, como la configuración del dispositivo, la dirección IP, el tipo de dispositivo y la versión del sistema operativo. Estos datos se utilizan para mejorar la experiencia del usuario, garantizar la compatibilidad y aplicar medidas de seguridad, incluyendo el almacenamiento temporal de la dirección IP para gestionar ratelimits y medidas de seguridad en nuestra API.
 
-Hemos implementado medidas de seguridad adecuadas para proteger la información recopilada, incluyendo protocolos de cifrado y controles de acceso. Nos comprometemos a mantener la confidencialidad y la integridad de tus datos.
+### **3. Uso de la Información**
 
-#### Cambios en la Política de Privacidad
+#### 3.1. **Propósito:**
 
-Esta Política de Privacidad puede actualizarse periódicamente para reflejar cambios en nuestras prácticas y servicios. Te recomendamos revisarla de manera regular para estar informado/a sobre cómo protegemos tu información.
+* La información recopilada se utiliza exclusivamente para facilitar la funcionalidad de VIS Launcher, incluyendo la descarga de modpacks, la verificación del estado de los servidores de VI Software, y la mejora continua de la aplicación.
 
-#### Contacto
+#### 3.2. **Confidencialidad:**
 
-Si tienes preguntas o inquietudes sobre nuestra Política de Privacidad, por favor contáctanos a través de Discord.
+* No compartiremos ni divulgaremos tu información con terceros sin tu consentimiento explícito, a menos que lo requiera la ley.
+
+### **4. Seguridad de la Información**
+
+#### 4.1. **Medidas de Seguridad:**
+
+* Hemos implementado medidas de seguridad adecuadas, incluyendo protocolos de cifrado y controles de acceso, para proteger la información recopilada. Nos comprometemos a mantener la confidencialidad y la integridad de tus datos.
+
+### **5. Marco Legal Aplicable**
+
+#### 5.1. **Leyes de Protección de Datos:**
+
+* Esta política se ajusta a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como a otras leyes y regulaciones aplicables en la Unión Europea y España.
+
+### **6. Cambios en la Política de Privacidad**
+
+#### 6.1. **Actualizaciones Periódicas:**
+
+* Esta Política de Privacidad puede actualizarse periódicamente para reflejar cambios en nuestras prácticas y servicios. Te recomendamos revisarla de manera regular para estar informado/a sobre cómo protegemos tu información.
+
+### **7. Contacto**
+
+#### 7.1. **Canal de Comunicación:**
+
+* Si tienes preguntas o inquietudes sobre nuestra Política de Privacidad, por favor contáctanos a través de Discord o a vis-project@galnod.com
