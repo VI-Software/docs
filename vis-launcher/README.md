@@ -24,8 +24,6 @@ Conéctate a los servidores de VI Software sin preocupaciones, permite al VIS La
 
 Esta no es una lista exhaustiva. ¡Descarga e instala el lanzador para evaluar todo lo que puede hacer!
 
-**¿Necesitas ayuda?** [**Consulta la wiki**](https://vi-software.gitbook.io/vi-software/vis-launcher)
-
 ### Descargas
 
 Puede descargar desde [Versiones de GitHub](https://github.com/VI-Software/vis-launcher)
