@@ -1,4 +1,4 @@
-# ⚙ VIS Developer Portal
+# VIS Developer Portal
 
 {% hint style="warning" %}
 VIS D**eveloper Portal aún se encuentra en desarrollo interno, en su defecto, esta documentación está incompleta.**
