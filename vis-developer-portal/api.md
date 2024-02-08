@@ -12,7 +12,14 @@ description: Application Programming Interface de VIS Developer Portal
 {% endswagger-description %}
 
 {% swagger-response status="200: OK" description="Gets application details" %}
-
+```
+- Status
+- appName
+- appOwner
+- appDeveloper
+- Runtime-Mode
+- Specific-Version
+```
 {% endswagger-response %}
 
 {% swagger-response status="404: Not Found" description="The API route has been moved" %}
@@ -34,9 +41,9 @@ If the request is successful, it will return the project data that is associated
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="Key is valid" %}
-```
-projectDetails:
-- id
+<pre><code><strong>code: 200
+</strong><strong>projectDetails:
+</strong>- id
 - ownerId
 - name
 - logo
@@ -44,7 +51,7 @@ projectDetails:
 - description
 - termsOfService
 - privacyPolicy
-```
+</code></pre>
 {% endswagger-response %}
 
 {% swagger-response status="401: Unauthorized" description="The required authorization heads were not present in the request" %}
