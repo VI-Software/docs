@@ -6,6 +6,8 @@ description: Application Programming Interface de VIS Developer Portal
 
 
 
+### Fetch application details
+
 {% swagger method="get" path="" baseUrl="https://dev-vis.galnod.com/api" summary="Fetch application details" %}
 {% swagger-description %}
 
@@ -31,7 +33,9 @@ description: Application Programming Interface de VIS Developer Portal
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="" baseUrl="https://dev-vis.galnod.com/api/key" summary="Validate a key" %}
+### Validate a key / get project info
+
+{% swagger method="get" path="" baseUrl="https://dev-vis.galnod.com/api/key" summary="Validate a key / get project info" %}
 {% swagger-description %}
 If the request is successful, it will return the project data that is associated with the API Key
 {% endswagger-description %}
