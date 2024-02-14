@@ -3,7 +3,7 @@
 * [VI Software](README.md)
   * [🧑🤝🧑 Contribuidores](vi-software/contribuidores.md)
 * [VIS' Launcher](vis-launcher/README.md)
-  * [❗ Probar VIS launcher](vis-launcher/modpack.md)
+  * [ℹ Sobre VIS Launcher](vis-launcher/modpack.md)
   * [📔 Términos de Uso](vis-launcher/terminos-de-uso.md)
   * [📒 Política de Privacidad](vis-launcher/politica-de-privacidad.md)
   * [🎮 Descarga e instalación del launcher en Windows](vis-launcher/descarga-e-instalacion-del-launcher-en-windows.md)
