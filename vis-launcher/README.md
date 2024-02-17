@@ -1,6 +1,12 @@
 # VIS' Launcher
 
+## VI Software Launcher
+
 Conéctate a los servidores de VI Software sin preocupaciones, permite al VIS Launcher actualizar, pre configurar tus instalaciones de mods de las experiencias VIS por ti.
+
+
+
+[![gh actions](https://img.shields.io/github/actions/workflow/status/VI-Software/vis-launcher/build.yml?branch=master\&style=for-the-badge)](https://github.com/VI-Software/vis-launcher/actions) [![downloads](https://img.shields.io/github/downloads/VI-Software/vis-launcher/total.svg?style=for-the-badge)](https://github.com/VI-Software/vis-launcher/releases)
 
 ### Características
 
@@ -24,10 +30,3 @@ Conéctate a los servidores de VI Software sin preocupaciones, permite al VIS La
 
 Esta no es una lista exhaustiva. ¡Descarga e instala el lanzador para evaluar todo lo que puede hacer!
 
-### Descargas
-
-Puede descargar desde [Versiones de GitHub](https://github.com/VI-Software/vis-launcher)
-
-### Bugs
-
-Para informar respecto a un bug dirígete [aquí](https://github.com/VI-Software/vis-launcher/issues)

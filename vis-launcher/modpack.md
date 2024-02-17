@@ -38,6 +38,10 @@ Puede descargar desde [Versiones de GitHub](https://github.com/VI-Software/vis-l
 
 Para informar respecto a un bug dirígete [aquí](https://github.com/VI-Software/vis-launcher/issues)
 
+### Términos de servicio y política de privacidad
+
+Al utilizar [VI Software Launcher](https://github.com/VI-Software/vis-launcher), acepta nuestra [política de privacidad](https://docs-vis.galnod.com/vi-software/vis-launcher/politica-de-privacidad) y [términos de servicios](https://docs-vis.galnod.com/vi-software/vis-launcher/terminos-de-uso), por ende, acepta también las [políticas relacionadas](https://docs-vis.galnod.com/vi-software/vis-yggdrasil-auth/politica-de-privacida) con los servicios que son ofrecidos por terceros o no están afiliados directamente con [VI Software Launcher](https://github.com/VI-Software/vis-launcher)
+
 ## Descarga de modpacks sin VI Software Launcher
 
 {% hint style="danger" %}
