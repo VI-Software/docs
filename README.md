@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: https://i.imgur.com/zRwAOyp.png
 coverY: 0
 layout:
   cover:
@@ -8,7 +8,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,4 +19,4 @@ layout:
 
 # VI Software
 
-**🙋‍♀️ VI Software (VIS)** está profundamente comprometido con la selección cuidadosa y la administración efectiva de servidores de Minecraft diseñados específicamente para uso educativo entre estudiantes. Nuestra misión es proporcionar un espacio virtual dedicado que no solo se alinee con los objetivos académicos sino que también facilite experiencias de aprendizaje colaborativo dentro de la plataforma Minecraft.
+[ℹ️](https://emojipedia.org/information) **VI Software** es una organización sin ánimo de lucro dedicada a organizar experiencias de juego en Minecraft específicamente para uso educativo entre estudiantes. Nuestra misión es proporcionar un espacio virtual dedicado que no solo se alinee con los objetivos académicos sino que también facilite experiencias de aprendizaje colaborativo dentro de la plataforma Minecraft.
