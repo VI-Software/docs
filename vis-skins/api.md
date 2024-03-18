@@ -6,26 +6,72 @@ description: Application Programming Interface de VIS Skins
 
 ### URL Base
 
-```
+```url
 https://skins-vis.galnod.com
 ```
 
-Endpoints
 
-#### Obtener Renderizado de Skin
 
-**URL**
+### Endpoints
 
+####
+
+#### Obtener Renderizado 2D de Skin
+
+<mark style="color:green;">`GET`</mark> `/2d/skins/:name/:type?scale=:scale`
+
+Obtén el avatar 2D renderizado de un usuario.
+
+**Headers**
+
+| Nombre       | Valor     |
+| ------------ | --------- |
+| Content-Type | image/png |
+
+**URL & Query**
+
+| Name    | Type           | Description                                                               |
+| ------- | -------------- | ------------------------------------------------------------------------- |
+| `name`  | string \| uuid | Nombre del usuario \| UUID del usuario                                    |
+| `type`  | string         | <p>fullbody - Para cuerpo completo<br>head - Para solamente la cabeza</p> |
+| `scale` | number         | Número del 1 al 50                                                        |
+
+**Respuesta**
+
+{% tabs %}
+{% tab title="200" %}
 ```
-GET /2d/skin/:name/:type
+Imagen con el avatar
 ```
+{% endtab %}
 
-* `:name`: Nombre del jugador de Minecraft.
-* `:type`: Tipo de renderizado. Puede ser `head` (cabeza) o `fullbody` (cuerpo completo).
+{% tab title="404" %}
+```json
+{
+    "code": "404",
+    "error": "Player not found"
+}
+```
+{% endtab %}
 
-**Parámetros de consulta**
+{% tab title="403" %}
+```json
+{ 
+    "code": "403",
+    "error": "Action forbidden"
+}
+```
+{% endtab %}
 
-* `scale`: (Opcional) Escala de la imagen renderizada. El valor predeterminado es 25.
+{% tab title="500" %}
+```json
+{
+    "code": "500",
+    "error": "Internal Server Error"
+}
+```
+{% endtab %}
+{% endtabs %}
 
 **Ejemplo de uso**
 
@@ -39,11 +85,3 @@ GET /2d/skin/:name/:type
     ```
     GET /2d/skin/Benson/fullbody?scale=2
     ```
-
-### Respuesta
-
-La API responde con la imagen renderizada de la skin del jugador en formato PNG.
-
-### Manejo de errores
-
-Si ocurre un error durante el procesamiento de la solicitud, la API responde con un código de estado HTTP apropiado junto con un mensaje de error.
