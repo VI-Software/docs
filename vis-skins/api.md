@@ -30,11 +30,11 @@ Obtén el avatar 2D renderizado de un usuario.
 
 **URL & Query**
 
-| Name    | Type           | Description                                                               |
-| ------- | -------------- | ------------------------------------------------------------------------- |
-| `name`  | string \| uuid | Nombre del usuario \| UUID del usuario                                    |
-| `type`  | string         | <p>fullbody - Para cuerpo completo<br>head - Para solamente la cabeza</p> |
-| `scale` | number         | Número del 1 al 50                                                        |
+| Name    | Type   | Description                                                               |
+| ------- | ------ | ------------------------------------------------------------------------- |
+| `name`  | string | Nombre del usuario o UUID del usuario                                     |
+| `type`  | string | <p>fullbody - Para cuerpo completo<br>head - Para solamente la cabeza</p> |
+| `scale` | number | Número del 1 al 50                                                        |
 
 **Respuesta**
 
