@@ -29,3 +29,4 @@
   * [📔 Contribution Guidelines](guidelines/contribution-guidelines.md)
   * [📔 Pull Request Guidelines](guidelines/pull-request-guidelines.md)
   * [📔 Términos de Servicio](guidelines/terminos-de-servicio.md)
+  * [📔 Política de Invitación](guidelines/politica-de-invitacion.md)
