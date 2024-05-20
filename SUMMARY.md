@@ -13,7 +13,7 @@
   * [📔 Política de Privacida](vis-yggdrasil-auth/politica-de-privacida.md)
   * [💾 Instalación en servidores parte del programa VIS Online](vis-yggdrasil-auth/instalacion-en-servidores-parte-del-programa-vis-online.md)
   * [💾 Instalación en servidores de terceros](vis-yggdrasil-auth/instalacion-en-servidores-de-terceros.md)
-  * [🔑 Reiniciando la contraseña de una cuenta](vis-yggdrasil-auth/reiniciando-la-contrasena-de-una-cuenta.md)
+  * [🔑 Ver la información de mi cuenta](vis-yggdrasil-auth/ver-la-informacion-de-mi-cuenta.md)
 * [VIS Skins](vis-skins/README.md)
   * [💻 API](vis-skins/api.md)
 * [VIS Panel de Usuario Final](puf/README.md)

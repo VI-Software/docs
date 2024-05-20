@@ -8,12 +8,12 @@ description: Application Programming Interface de VIS Developer Portal
 
 ### Fetch application details
 
-{% swagger method="get" path="" baseUrl="https://dev-vis.galnod.com/api" summary="Fetch application details" %}
-{% swagger-description %}
+## Fetch application details
 
-{% endswagger-description %}
+<mark style="color:blue;">`GET`</mark> `https://dev-vis.galnod.com/api`
 
-{% swagger-response status="200: OK" description="Gets application details" %}
+{% tabs %}
+{% tab title="200: OK Gets application details" %}
 ```
 - Status
 - appName
@@ -22,29 +22,33 @@ description: Application Programming Interface de VIS Developer Portal
 - Runtime-Mode
 - Specific-Version
 ```
-{% endswagger-response %}
+{% endtab %}
 
-{% swagger-response status="404: Not Found" description="The API route has been moved" %}
+{% tab title="500: Internal Server Error The application is not operating" %}
 
-{% endswagger-response %}
+{% endtab %}
 
-{% swagger-response status="500: Internal Server Error" description="The application is not operating" %}
+{% tab title="404: Not Found The API route has been moved" %}
 
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
 
 ### Validate a key / get project info
 
-{% swagger method="get" path="" baseUrl="https://dev-vis.galnod.com/api/key" summary="Validate a key / get project info" %}
-{% swagger-description %}
+## Validate a key / get project info
+
+<mark style="color:blue;">`GET`</mark> `https://dev-vis.galnod.com/api/key`
+
 If the request is successful, it will return the project data that is associated with the API Key
-{% endswagger-description %}
 
-{% swagger-parameter in="query" name="key" type="string" required="true" %}
+#### Query Parameters
 
-{% endswagger-parameter %}
+| Name                                  | Type   | Description |
+| ------------------------------------- | ------ | ----------- |
+| key<mark style="color:red;">\*</mark> | string |             |
 
-{% swagger-response status="200: OK" description="Key is valid" %}
+{% tabs %}
+{% tab title="200: OK Key is valid" %}
 <pre><code><strong>code: 200
 </strong><strong>projectDetails:
 </strong>- id
@@ -56,13 +60,13 @@ If the request is successful, it will return the project data that is associated
 - termsOfService
 - privacyPolicy
 </code></pre>
-{% endswagger-response %}
+{% endtab %}
 
-{% swagger-response status="401: Unauthorized" description="The required authorization heads were not present in the request" %}
+{% tab title="401: Unauthorized The required authorization heads were not present in the request" %}
 
-{% endswagger-response %}
+{% endtab %}
 
-{% swagger-response status="404: Not Found" description=" The key was not found on the database" %}
+{% tab title="404: Not Found  The key was not found on the database" %}
 
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
