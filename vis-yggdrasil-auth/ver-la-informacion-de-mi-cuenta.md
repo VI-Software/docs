@@ -1,6 +1,6 @@
 # 🔑 Ver la información de mi cuenta
 
-1. Inicia sesión en [https://puf-vis.galnod.com/login](https://puf-vis.galnod.com/login) con tu cuenta de Discord en la que estás en el VIS Discord.
+1. Inicia sesión en [https://puf.visoftware.tech](https://puf.visoftware.tech) con tu cuenta de Discord en la que estás en el VIS Discord.
 2. Una vez estés en el dashboard, navega con la barra superior a "Mis cuentas".
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

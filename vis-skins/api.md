@@ -7,7 +7,7 @@ description: Application Programming Interface de VIS Skins
 ### URL Base
 
 ```url
-https://skins-vis.galnod.com
+https://skins.visoftware.tech
 ```
 
 

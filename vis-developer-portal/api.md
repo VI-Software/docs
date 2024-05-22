@@ -10,7 +10,7 @@ description: Application Programming Interface de VIS Developer Portal
 
 ## Fetch application details
 
-<mark style="color:blue;">`GET`</mark> `https://dev-vis.galnod.com/api`
+<mark style="color:blue;">`GET`</mark> `https://dev.visoftware.tech`
 
 {% tabs %}
 {% tab title="200: OK Gets application details" %}

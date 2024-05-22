@@ -14,10 +14,10 @@ Es importante destacar que el sistema VIS' Yggdrasil Auth se encuentra actualmen
 
 ```batch
 -Dminecraft.api.env=custom
--Dminecraft.api.auth.host=https://authserver-vis.galnod.com/auth
--Dminecraft.api.account.host=https://authserver-vis.galnod.com/account
--Dminecraft.api.session.host=https://authserver-vis.galnod.com/session
--Dminecraft.api.services.host=https://authserver-vis.galnod.com/services
+-Dminecraft.api.auth.host=https://authserver.visoftware.tech/
+-Dminecraft.api.account.host=https://authserver.visoftware.tech/
+-Dminecraft.api.session.host=https://authserver.visoftware.tech/
+-Dminecraft.api.services.host=https://authserver.visoftware.tech/
 ```
 
 #### Un ejemplo de script de startup sería:
@@ -25,10 +25,10 @@ Es importante destacar que el sistema VIS' Yggdrasil Auth se encuentra actualmen
 ```batch
 java -Xmx1024M -Xms2048M \
     -Dminecraft.api.env=custom \
-    -Dminecraft.api.auth.host=https://authserver-vis.galnod.com/auth \
-    -Dminecraft.api.account.host=https://authserver-vis.galnod.com/account \
-    -Dminecraft.api.session.host=https://authserver-vis.galnod.com/session \
-    -Dminecraft.api.services.host=https://authserver-vis.galnod.com/services \
+    -Dminecraft.api.auth.host=https://authserver.visoftware.tech/ \
+    -Dminecraft.api.account.host=https://authserver.visoftware.tech/ \
+    -Dminecraft.api.session.host=https://authserver.visoftware.tech/ \
+    -Dminecraft.api.services.host=https://authserver.visoftware.tech/ \
     -jar server.jar nogui
 ```
 
