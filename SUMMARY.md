@@ -9,6 +9,7 @@
   * [🎮 Descarga e instalación del launcher en Windows](vis-launcher/descarga-e-instalacion-del-launcher-en-windows.md)
   * [🎮 Descarga e instalación del launcher en sistemas basados en Linux (amd64)](vis-launcher/descarga-e-instalacion-del-launcher-en-sistemas-basados-en-linux-amd64.md)
   * [🔼 Actualizar el launcher desde versiones anteriores a Relase 1.5.2](vis-launcher/actualizar-el-launcher-desde-versiones-anteriores-a-relase-1.5.2.md)
+  * [⚠️ Eerror al intentar conectarse a VI Software Background Services](vis-launcher/eerror-al-intentar-conectarse-a-vi-software-background-services.md)
 * [VIS' Yggdrasil Auth](vis-yggdrasil-auth/README.md)
   * [📔 Política de Privacida](vis-yggdrasil-auth/politica-de-privacida.md)
   * [💾 Instalación en servidores parte del programa VIS Online](vis-yggdrasil-auth/instalacion-en-servidores-parte-del-programa-vis-online.md)
