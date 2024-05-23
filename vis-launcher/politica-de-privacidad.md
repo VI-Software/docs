@@ -54,4 +54,4 @@ Bienvenido/a a VIS Launcher, una aplicación desarrollada por VI Software. En VI
 
 #### 7.1. **Canal de Comunicación:**
 
-* Si tienes preguntas o inquietudes sobre nuestra Política de Privacidad, por favor contáctanos a través de Discord o a vis-project@galnod.com
+* Si tienes preguntas o inquietudes sobre nuestra Política de Privacidad, por favor contáctanos a través de Discord o a contact@visoftware.tech

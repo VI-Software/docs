@@ -54,7 +54,7 @@
 
 #### 6.1. **Correo de Contacto:**
 
-* Para consultas relacionadas con la privacidad y VIS' Yggdrasil Auth, puedes ponerte en contacto con nosotros a través de vis-project@galnod.com.
+* Para consultas relacionadas con la privacidad y VIS' Yggdrasil Auth, puedes ponerte en contacto con nosotros a través de contact@visoftware.tech.
 
 ### **7. Cambios en la Política de Privacidad**
 

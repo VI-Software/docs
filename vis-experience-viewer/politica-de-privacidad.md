@@ -49,6 +49,6 @@ Bienvenido a VIS Experience Viewer, un plugin para Minecraft que mejora tu exper
 
 #### Contacto
 
-Si tienes preguntas o inquietudes sobre esta política de privacidad, no dudes en ponerte en contacto con nosotros en Discord.
+Si tienes preguntas o inquietudes sobre esta política de privacidad, no dudes en ponerte en contacto con nosotros en contact@visoftware.tech
 
 Gracias por elegir VIS Experience Viewer. ¡Disfruta de tu experiencia de juego!

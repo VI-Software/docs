@@ -66,4 +66,4 @@ Tenga en cuenta que no todos los servidores listados en la Aplicación son propi
 
 11\. Contacto
 
-Si tiene alguna pregunta sobre estos Términos, puede contactarnos en nuestro Discord.
+Si tiene alguna pregunta sobre estos Términos, puede contactarnos en contact@visoftware.tech.

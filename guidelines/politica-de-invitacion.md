@@ -55,4 +55,4 @@ En VI Software, valoramos la participación activa de nuestros clientes y su des
 
     d. Cualquier violación de las políticas globales por parte de un invitado será tratada con seriedad y puede resultar en medidas disciplinarias tanto para el invitado como para el cliente que lo invitó.
 
-Al aceptar utilizar los servicios de VI Software, usted acepta cumplir con esta política de invitación de clientes. Cualquier violación de esta política puede resultar en medidas disciplinarias, según lo determinado por la administración de VI Software. Si tiene alguna pregunta o inquietud con respecto a esta política, no dude en ponerse en contacto con nosotros.
+Al aceptar utilizar los servicios de VI Software, usted acepta cumplir con esta política de invitación de clientes. Cualquier violación de esta política puede resultar en medidas disciplinarias, según lo determinado por la administración de VI Software. Si tiene alguna pregunta o inquietud con respecto a esta política, no dude en ponerse en contacto con nosotros en contact@visoftware.tech.
