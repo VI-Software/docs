@@ -1,4 +1,4 @@
-# ⚠️ Eerror al intentar conectarse a VI Software Background Services
+# ⚠️ Error al intentar conectarse a VI Software Background Services
 
 VI Software Background Services es una API privada de VI Software empleada en el VIS Launcher para la carga dinámica de fondos. Cuando se presenta el error "No se pudo conectar a VI Software Background Services", esto usualmente sugiere un problema con la conexión a este servicio, frecuentemente relacionado con la resolución de la URL.
 

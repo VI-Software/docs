@@ -1,12 +1,12 @@
 # 📔 Términos de Uso
 
-_Última actualización: 13.11.2023_
+_Última actualización: 06.06.2024_
 
 Bienvenido/a a VIS Launcher, una aplicación desarrollada por VI Software. Al utilizar VIS Launcher, aceptas los siguientes términos y condiciones. Por favor, léelos cuidadosamente antes de continuar.
 
 #### 1. Uso de VIS Launcher
 
-1.1. VIS Launcher es proporcionado por VI Software para facilitar el acceso y la gestión de modpacks para juegos. Al utilizar la aplicación, te comprometes a respetar todas las leyes y regulaciones aplicables.
+1.1. VIS Launcher es proporcionado por VI Software para facilitar el acceso y la gestión de modpacks para los servidores de VI Software y sus clientes. Al utilizar la aplicación, te comprometes a respetar todas las leyes y regulaciones aplicables en España o la Unión Europea.
 
 1.2. Te comprometes a utilizar VIS Launcher de manera responsable y ética, sin incurrir en actividades ilegales, fraudulentas o que violen los derechos de otros usuarios.
 
@@ -44,7 +44,11 @@ Bienvenido/a a VIS Launcher, una aplicación desarrollada por VI Software. Al ut
 
 7.1. VI Software se reserva el derecho de modificar estos Términos de Uso en cualquier momento. Se te notificará sobre cambios significativos a través de la plataforma o mediante otros medios.
 
-#### 8. Contacto
+#### 8. Políticas aplicables.
+
+8.1 Otras políticas de VI Software son aplicables junto a estos términos de uso, las cuales pueden ser los términos de servicio de VI Software, Código de Conducta de VI Software.
+
+#### 9. Contacto
 
 Si tienes preguntas o inquietudes sobre estos Términos de Uso, por favor contáctanos a través de Discord.
 
