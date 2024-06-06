@@ -1,4 +1,4 @@
-# ℹ Sobre VIS Launcher
+# ℹ️ Sobre VIS Launcher
 
 ## VI Software Launcher
 
@@ -8,11 +8,13 @@ Conéctate a los servidores de VI Software sin preocupaciones, permite al VIS La
 
 [![gh actions](https://img.shields.io/github/actions/workflow/status/VI-Software/vis-launcher/build.yml?branch=master\&style=for-the-badge)](https://github.com/VI-Software/vis-launcher/actions) [![downloads](https://img.shields.io/github/downloads/VI-Software/vis-launcher/total.svg?style=for-the-badge)](https://github.com/VI-Software/vis-launcher/releases)
 
+Conéctate a los servidores de VI Software sin preocupaciones, permite al VIS Launcher actualizar, pre configurar tus instalaciones de mods de las experiencias VIS por ti.
+
 ### Características
 
 * 🔒 Gestión completa de cuentas.
   * Agregue varias cuentas y cambie fácilmente entre ellas.
-  * Autenticación de [VI Software](https://authserver-vis.galnod.com) (Yggdrasil) totalmente compatible.
+  * Autenticación de [VIS' Yggdrasil Auth](https://docs.visoftware.tech/vi-software/vis-yggdrasil-auth) (Yggdrasil) totalmente compatible.
   * Las credenciales nunca se almacenan, se transmiten directamente al servidor de VI Software.
 * 📂 Gestión eficiente de activos.
   * Reciba actualizaciones de clientes tan pronto como las publiquemos.
@@ -30,6 +32,8 @@ Conéctate a los servidores de VI Software sin preocupaciones, permite al VIS La
 
 Esta no es una lista exhaustiva. ¡Descarga e instala el lanzador para evaluar todo lo que puede hacer!
 
+**¿Necesitas ayuda?** [**Consulta la wiki**](https://docs.visoftware.tech/vi-software/vis-launcher)
+
 ### Descargas
 
 Puede descargar desde [Versiones de GitHub](https://github.com/VI-Software/vis-launcher)
@@ -38,18 +42,3 @@ Puede descargar desde [Versiones de GitHub](https://github.com/VI-Software/vis-l
 
 Para informar respecto a un bug dirígete [aquí](https://github.com/VI-Software/vis-launcher/issues)
 
-### Términos de servicio y política de privacidad
-
-Al utilizar [VI Software Launcher](https://github.com/VI-Software/vis-launcher), acepta nuestra [política de privacidad](https://docs-vis.galnod.com/vi-software/vis-launcher/politica-de-privacidad) y [términos de servicios](https://docs-vis.galnod.com/vi-software/vis-launcher/terminos-de-uso), por ende, acepta también las [políticas relacionadas](https://docs-vis.galnod.com/vi-software/vis-yggdrasil-auth/politica-de-privacida) con los servicios que son ofrecidos por terceros o no están afiliados directamente con [VI Software Launcher](https://github.com/VI-Software/vis-launcher)
-
-## Descarga de modpacks sin VI Software Launcher
-
-{% hint style="danger" %}
-VI Software ha discontinuado cualquier método alternativo para la descarga de mods que no sea a través del lanzador oficial desde el 31 de diciembre de 2023. No se proporcionará soporte oficial para tales métodos.
-{% endhint %}
-
-{% hint style="danger" %}
-A partir del 14 de febrero de 2024, VI Software ha cesado la publicación independiente de sus modpacks debido a la reciente implementación del nuevo sistema de autenticación.
-{% endhint %}
-
-**No hay modpacks actualmente publicados.**
