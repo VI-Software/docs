@@ -5,6 +5,6 @@
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-3. Una vez en esta página, podrás ver todas tus cuentas, incluyendo, sus usuarios, sus tókenes (contraseñas), rango, el estado y un acceso rápido para gestionar su cuenta (cambiar skin, cambio de contraseña...)
+1. Una vez en esta página, podrás ver todas tus cuentas, incluyendo, sus usuarios, sus tókenes (contraseñas), rango, team, el estado de actividady un acceso rápido para gestionar su cuenta (cambiar skin, cambio de contraseña...)
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Para ver su token, ponga el ratón encima de la palabra "OCULTO"</p></figcaption></figure>
