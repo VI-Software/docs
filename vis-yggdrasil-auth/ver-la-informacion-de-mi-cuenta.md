@@ -8,3 +8,9 @@
 1. Una vez en esta página, podrás ver todas tus cuentas, incluyendo, sus usuarios, sus tókenes (contraseñas), rango, team, el estado de actividady un acceso rápido para gestionar su cuenta (cambiar skin, cambio de contraseña...)
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Para ver su token, ponga el ratón encima de la palabra "OCULTO"</p></figcaption></figure>
+
+
+
+{% hint style="danger" %}
+¡**RECUERDA!** Verifica que la contraseña no tenga ningún espacio u otros caracteres antes de contactar al soporte de VI Software en caso de no poder iniciar sesión.
+{% endhint %}
