@@ -13,6 +13,7 @@
 * [VIS PUF](puf/README.md)
   * [📂 Tutoriales](puf/tutoriales/README.md)
     * [📃 PIN de Soporte](puf/tutoriales/pin-de-soporte.md)
+    * [📃 Seleccionar Servidor](puf/tutoriales/seleccionar-servidor.md)
   * [📔 Política de Privacidad](puf/politica-de-privacidad.md)
   * [📔 Términos de Servicio](puf/terminos-de-servicio.md)
 * [VIS Yggdrasil Auth](vis-yggdrasil-auth/README.md)
