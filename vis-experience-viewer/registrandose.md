@@ -1,4 +1,10 @@
-# 👩💻 Registrándose
+# 👩‍💻 Registrándose
+
+
+
+{% hint style="danger" %}
+La funcionalidad de iniciar sesión ha sido descontinuada en la v2. Esta documentación se ha conservado únicamente con fines de archivo histórico.
+{% endhint %}
 
 Antes de iniciar el proceso de registro tenga en cuenta lo siguiente:\
 

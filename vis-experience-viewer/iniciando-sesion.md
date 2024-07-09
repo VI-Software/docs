@@ -1,6 +1,10 @@
-# 👨💻 Iniciando sesión
+# 👨‍💻 Iniciando sesión
 
 
+
+{% hint style="danger" %}
+La funcionalidad de iniciar sesión ha sido descontinuada en la v2. Esta documentación se ha conservado únicamente con fines de archivo histórico.
+{% endhint %}
 
 {% hint style="warning" %}
 Antes de iniciar sesión necesitas una cuenta que ya esté creada en la experiencia.&#x20;
