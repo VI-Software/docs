@@ -63,7 +63,7 @@ El Cliente reconoce que VI Software tiene una política de invitación que permi
 
 VI Software se reserva el derecho de modificar este Contrato de Licencia en cualquier momento. Las modificaciones entrarán en vigencia tan pronto como se publiquen en nuestros sitios web o plataformas. Se recomienda a los Clientes revisar periódicamente este documento para estar al tanto de las actualizaciones. El uso continuado de los servicios de VI Software después de cualquier modificación constituirá la aceptación de dichas modificaciones por parte del Cliente. VI Software no tiene la obligación de notificar sobre el cambio en esta licencia.
 
-## 10. Legislación Aplicable
+### 10. Legislación Aplicable
 
 Este Contrato de Licencia se rige por las leyes aplicables del Reino de España y la Unión Europea en las plataformas utilizadas por VI Software, como Discord y otras plataformas en línea relevantes.
 
