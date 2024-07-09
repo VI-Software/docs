@@ -33,3 +33,5 @@
   * [📔 Pull Request Guidelines](guidelines/pull-request-guidelines.md)
   * [📔 Términos de Servicio](guidelines/terminos-de-servicio.md)
   * [📔 Política de Invitación](guidelines/politica-de-invitacion.md)
+* [Licencias](licencias/README.md)
+  * [📔 Licencia Cliente](licencias/licencia-cliente.md)
