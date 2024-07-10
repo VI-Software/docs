@@ -37,3 +37,4 @@
   * [📔 Política de Uso Justo para la API](guidelines/politica-de-uso-justo-para-la-api.md)
 * [Licencias](licencias/README.md)
   * [📔 Licencia Cliente](licencias/licencia-cliente.md)
+  * [📔 Licencia Invitado](licencias/licencia-invitado.md)
