@@ -35,6 +35,7 @@
   * [📔 Términos de Servicio](guidelines/terminos-de-servicio.md)
   * [📔 Política de Invitación](guidelines/politica-de-invitacion.md)
   * [📔 Política de Uso Justo para la API](guidelines/politica-de-uso-justo-para-la-api.md)
+  * [📔 Política de contribución](guidelines/politica-de-contribucion.md)
 * [Licencias](licencias/README.md)
   * [📔 Licencia Cliente](licencias/licencia-cliente.md)
   * [📔 Licencia Invitado](licencias/licencia-invitado.md)
