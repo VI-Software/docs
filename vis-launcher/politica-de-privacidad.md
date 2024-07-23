@@ -38,7 +38,7 @@ Nos comprometemos a mantener la confidencialidad y la integridad de tus datos. N
 
 4.1. Medidas de Seguridad:  Hemos implementado medidas de seguridad adecuadas, incluyendo protocolos de cifrado y controles de acceso, para proteger la información recopilada.
 
-4. Marco Legal Aplicable 5.1. Leyes de Protección de Datos:&#x20;
+5.1. Leyes de Protección de Datos
 
 Esta política se ajusta a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como a otras leyes y regulaciones aplicables en la Unión Europea y España.
 
