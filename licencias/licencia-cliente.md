@@ -47,9 +47,11 @@ El Cliente también debe adherirse al Código de Conducta de VI Software, dispon
 
 Una de las obligaciones del Cliente es unirse y permanecer en el servidor de Discord de VI Software. Los clientes deben de permanecer en el Discord en todo momento.
 
-### 6. Reserva de Derechos
+En caso de que el cliente abandone el servidor de Discord de VI Software, el acuerdo con el cliente será considerado inmediatamente finalizado. No obstante, el hecho de que el contrato se dé por terminado no exime al cliente de la responsabilidad por cualquier violación de las normas o términos establecidos previamente. El cliente podrá aún ser sujeto a medidas disciplinarias o sanciones relacionadas con incumplimientos ocurridos durante el período de vigencia del contrato.
 
-VI Software se reserva el derecho de modificar, suspender o terminar los servicios proporcionados al Cliente en cualquier momento y sin previo aviso, si se determina que el Cliente ha violado este Contrato de Licencia, los Términos de Servicio, el Código de Conducta o cualquier otra política de VI Software.&#x20;
+### **6. Reserva de Derechos**
+
+VI Software se reserva el derecho de modificar, suspender o rescindir los servicios proporcionados al Cliente en cualquier momento y sin previo aviso, si se determina que el Cliente ha incumplido este Contrato de Licencia, los Términos de Servicio, el Código de Conducta o cualquier otra política de VI Software. No será necesario que VI Software aporte pruebas específicas de dicha violación; el simple hecho de que se considere razonable y/o justificado proceder será suficiente para la modificación, suspensión o terminación del servicio. VI Software podrá proceder con la terminación del contrato siempre que exista una justificación razonable o se identifique un comportamiento de alto riesgo que pueda comprometer la integridad de VI Software o de terceros.
 
 ### 7. Validez del Contrato
 
