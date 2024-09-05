@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🔼 Actualizar el launcher desde versiones anteriores a Relase 1.5.2
 
 
