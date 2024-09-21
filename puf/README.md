@@ -1,3 +1,3 @@
-# VIS Panel de Usuario Final
+# VIS PUF
 
-**VI Software Panel de Usuario Final (VIS PUF)** es una aplicación diseñada para mejorar la gestión de cuentas y servidores de los usuarios. Con VIS PUF, los usuarios pueden ver los nombres de usuario del launcher, gestionar cuentas de invitados y consultar servidores, entre otras opciones. Esta herramienta proporciona una interfaz intuitiva y eficiente para mantener el control de sus entornos de usuario de manera sencilla y organizada.
+VI Software End-User Panel (VIS PUF) is an application designed to enhance account and server management for users. With VIS PUF, users can view launcher usernames, manage guest accounts, and check servers, among other options. This tool provides an intuitive and efficient interface to easily and effectively maintain control over their user environments.

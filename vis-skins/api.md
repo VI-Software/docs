@@ -14,13 +14,11 @@ https://skins.visoftware.tech
 
 ### Endpoints
 
-####
-
-#### Obtener Renderizado 2D de Skin
+Get 2D Rendering of Skin
 
 <mark style="color:green;">`GET`</mark> `/2d/skins/:name/:type?scale=:scale`
 
-Obtén el avatar 2D renderizado de un usuario.
+Get the rendered 2D avatar of a user.
 
 **Headers**
 
@@ -30,18 +28,18 @@ Obtén el avatar 2D renderizado de un usuario.
 
 **URL & Query**
 
-| Name    | Type   | Description                                                               |
-| ------- | ------ | ------------------------------------------------------------------------- |
-| `name`  | string | Nombre del usuario o UUID del usuario                                     |
-| `type`  | string | <p>fullbody - Para cuerpo completo<br>head - Para solamente la cabeza</p> |
-| `scale` | number | Número del 1 al 50                                                        |
+| Name    | Type   | Description                                                 |
+| ------- | ------ | ----------------------------------------------------------- |
+| `name`  | string | Username or User UUID                                       |
+| `type`  | string | <p>fullbody - For full body<br>head - For the head only</p> |
+| `scale` | number | Number from 1 to 50                                         |
 
 **Respuesta**
 
 {% tabs %}
 {% tab title="200" %}
 ```
-Imagen con el avatar
+Image with the avatar
 ```
 {% endtab %}
 
@@ -73,14 +71,14 @@ Imagen con el avatar
 {% endtab %}
 {% endtabs %}
 
-**Ejemplo de uso**
+Example of use
 
-*   Obtener el renderizado de la cabeza de la skin del jugador:
+*   Get the player skin head render:
 
     ```
     GET /2d/skin/Benson/head
     ```
-*   Obtener el renderizado del cuerpo completo de la skin del jugador con escala 2:
+*   Get the full body render of the player skin with scale 2:
 
     ```
     GET /2d/skin/Benson/fullbody?scale=2

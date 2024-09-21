@@ -1,4 +1,4 @@
 # VIS Skins
 
-Esta API te permite obtener y renderizar las skins de los jugadores de Minecraft. Puedes solicitar tanto el cuerpo completo como el renderizado de la cabeza de la skin de un jugador, y opcionalmente especificar la escala de la imagen renderizada. Actualmente solo soporta render en 2D de la skin.
+This API allows you to obtain and render Minecraft player skins. You can request both the full-body and head-only renderings of a player's skin, with the option to specify the scale of the rendered image. Currently, it only supports 2D rendering of the skin.
 

@@ -2,27 +2,27 @@
 
 
 
-## ¿Qué es un PIN de soporte?
+## What is a Support PIN?
 
-Un "PIN de Soporte" es un número de identificación personal utilizado en el contexto del soporte técnico dentro del entorno de VI PUF. Este código se proporciona a los usuarios con el propósito de autenticar su identidad y validar su derecho a recibir asistencia técnica o servicios específicos relacionados con VI Software. Al comunicarse con el servicio de atención al cliente o el soporte técnico de VI Software, se requerirá que los usuarios proporcionen este PIN para facilitar y asegurar el proceso de asistencia.
+A "Support PIN" is a personal identification number used in the context of technical support within the VIS PUF environment. This code is provided to users to authenticate their identity and validate their right to receive technical assistance or specific services related to VI Software. When contacting VI Software customer service or technical support, users will be required to provide this PIN to facilitate and secure the assistance process.
 
-## ¿Qué pasa si facilito mi pin de soporte a otra persona?
+## What happens if I share my Support PIN with someone else?
 
-Facilitar tu PIN de soporte a otra persona puede comprometer la seguridad de tu cuenta y la confidencialidad de la información relacionada con tu asistencia técnica. Al proporcionar este PIN a alguien más, estás dando acceso a esa persona para que se haga pasar por ti y potencialmente acceda a información confidencial sobre tus consultas de soporte técnico o servicios asociados con tu cuenta. Esto podría llevar a situaciones no autorizadas o incluso a la divulgación de información sensible. Por lo tanto, es fundamental mantener tu PIN de soporte privado y solo compartirlo con personal autorizado de VI PUF cuando sea necesario. Si crees que tu PIN de soporte ha sido comprometido, reinícialo cuanto antes.
+Sharing your Support PIN with someone else may compromise the security of your account and the confidentiality of the information related to your technical support. By providing this PIN to another person, you are giving them the ability to impersonate you and potentially access confidential information about your support queries or services associated with your account. This could lead to unauthorized actions or the disclosure of sensitive information. Therefore, it is essential to keep your Support PIN private and only share it with authorized VI PUF personnel when necessary. If you believe your Support PIN has been compromised, reset it as soon as possible.
 
-## ¿Cómo puedo ver mi PIN de soporte?
+## How can I view my Support PIN?
 
-Para ver tu PIN de soporte, sigue las siguientes capturas:
+To view your Support PIN, follow the steps in the screenshots below:
 
-1. Inicia sesión en[ https://puf.visoftware.tech](https://puf.visoftware.tech)
-2.  Haz clic en tu usuario de **la barra de navegación**.
+1. Log in at [https://puf.visoftware.tech](https://puf.visoftware.tech)
+2.  Click on your user icon in the navigation bar.
 
     <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-3. Haz clic en "ajustes"
+3. Click on 'Settings'
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-4. Busca el apartado "Información de mi cuenta" y estará en PIN de Soporte.
+4. Find the section 'Account Information' and the Support PIN will be there.
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 

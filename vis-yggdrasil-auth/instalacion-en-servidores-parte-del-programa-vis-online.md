@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 💾 Instalación en servidores parte del programa VIS Online
 
 {% hint style="warning" %}
