@@ -1,92 +1,86 @@
 # 📔 Términos de Servicio
 
-Términos de Servicio de VI Software&#x20;
+Aquí tienes la traducción al inglés de los **Términos de Servicio de VI Software**:
 
-Fecha de entrada en vigencia: 17 de febrero de 2024
+***
 
-Por favor, lea atentamente estos Términos de Servicio ("Términos") antes de utilizar los servicios ofrecidos por VI Software ("nosotros", "nuestro" o "la Compañía"). Al utilizar nuestros servicios, usted acepta estar legalmente vinculado por estos Términos, por lo que le recomendamos que los lea detenidamente.
+**VI Software Terms of Service**\
+**Effective Date: February 17, 2024**
+-------------------------------------
 
-1. Respeto y no discriminación
+Please read these Terms of Service ("Terms") carefully before using the services provided by VI Software ("we," "our," or "the Company"). By using our services, you agree to be legally bound by these Terms, so we recommend that you read them thoroughly.
 
-En VI Software, estamos comprometidos con la promoción del respeto y la no discriminación. Todos los usuarios deben tratar a los demás con cortesía y respeto, independientemente de sus credenciales, origen étnico, orientación sexual, género, religión o cualquier otra característica personal. No se tolerarán comentarios, actitudes o comportamientos discriminatorios, ofensivos o acosadores dentro de nuestra comunidad. Esto incluye pero no se limita a:
+### Respect and Non-Discrimination
 
-* Insultos basados en características personales.
-* Comentarios, imágenes o contenido que promuevan el odio o la violencia hacia cualquier grupo o individuo.
-* El acoso continuo o sistemático de otros usuarios.
-* La difusión de estereotipos negativos o perjudiciales sobre cualquier grupo.
+At VI Software, we are committed to promoting respect and non-discrimination. All users must treat others with courtesy and respect, regardless of their credentials, ethnicity, sexual orientation, gender, religion, or any other personal characteristics. Discriminatory, offensive, or harassing comments, attitudes, or behaviors within our community will not be tolerated. This includes but is not limited to:
 
-2. Legislación Aplicable
+* Insults based on personal characteristics.
+* Comments, images, or content that promote hate or violence towards any group or individual.
+* Continuous or systematic harassment of other users.
+* The spread of negative or harmful stereotypes about any group.
 
-Al utilizar nuestros servicios, los usuarios están sujetos a la legislación aplicable en las plataformas que utilizamos, como Discord y Minecraft. Los usuarios deben cumplir con los términos de servicio y las políticas de estas plataformas, y la violación de dichos términos puede resultar en acciones disciplinarias por parte de VI Software.
+### Applicable Legislation
 
-3. Derechos de VI Software
+By using our services, users are subject to the applicable legislation on platforms we use, such as Discord and Minecraft. Users must comply with the terms of service and policies of these platforms, and violating such terms may result in disciplinary actions by VI Software.
 
-Nos reservamos el derecho de tomar medidas, incluyendo, pero no limitándose a, terminar, suspender o desuspender cuentas de usuarios, en caso de violación de estos Términos o comportamientos que consideremos inapropiados o perjudiciales para la comunidad. Nosotros, en nuestra discreción, decidiremos qué medidas tomar. Tales acciones pueden incluir:
+### Rights of VI Software
 
-* La eliminación de contenido ofensivo o inapropiado.
-* La suspensión temporal o permanente de cuentas de usuario.
-* La eliminación de servidores que violen nuestras políticas.
-* La prohibición de participar en futuros servicios o eventos de VI Software.
+We reserve the right to take actions, including but not limited to terminating, suspending, or reinstating user accounts, in the event of violations of these Terms or behaviors we consider inappropriate or harmful to the community. At our discretion, we will decide what actions to take. Such actions may include:
 
-4. Normativa de Convivencia
+* Removing offensive or inappropriate content.
+* Temporarily or permanently suspending user accounts.
+* Deleting servers that violate our policies.
+* Banning users from participating in future VI Software services or events.
 
-Los usuarios se comprometen a seguir normas básicas de convivencia en nuestra plataforma. Esto incluye el respeto mutuo, la colaboración constructiva y la participación positiva en la comunidad. Cualquier comportamiento que viole estas normas puede dar lugar a medidas disciplinarias, como:
+### Community Guidelines
 
-* Insultos, difamación o acoso hacia otros usuarios.
-* La interrupción deliberada de conversaciones o actividades de otros usuarios.
-* El uso de lenguaje o imágenes que puedan considerarse ofensivos o inapropiados.
-* La incitación al odio o la violencia.
-* El comportamiento disruptivo que afecte negativamente la experiencia de otros usuarios.
+Users agree to follow basic guidelines for coexisting on our platform. This includes mutual respect, constructive collaboration, and positive participation in the community. Any behavior that violates these guidelines may result in disciplinary measures, such as:
 
-5. Normativa sobre contenido para mayores de edad y pornografía
+* Insults, defamation, or harassment towards other users.
+* Deliberate disruption of conversations or activities of other users.
+* Use of language or images that may be considered offensive or inappropriate.
+* Incitement to hate or violence.
+* Disruptive behavior that negatively impacts other users' experience.
 
-Queda estrictamente prohibido compartir, publicar o promover contenido para mayores de edad, incluida la pornografía, en nuestros servidores y plataformas. La violación de esta norma resultará en medidas disciplinarias, incluyendo, pero no limitada a la suspensión o terminación de la cuenta y/o servidor. Esto incluye:
+### Adult Content and Pornography Policy
 
-* El intercambio de imágenes, videos o texto de naturaleza pornográfica.
-* La promoción de actividades sexuales explícitas o inapropiadas.
-* El acceso o distribución de contenido para adultos a usuarios menores de edad.
+It is strictly prohibited to share, post, or promote adult content, including pornography, on our servers and platforms. Violating this rule will result in disciplinary actions, including but not limited to account and/or server suspension or termination. This includes:
 
-6. Normativa de Servidores
+* Sharing images, videos, or text of a pornographic nature.
+* Promoting explicit or inappropriate sexual activities.
+* Providing access to or distributing adult content to underage users.
 
-Cada servidor alojado por VI Software tiene su propia normativa específica, en conformidad con los términos vigentes de nuestra plataforma. Es responsabilidad de los usuarios familiarizarse y cumplir con las reglas y pautas establecidas por el servidor al que acceden. Los servidores pueden implementar sus propias sanciones por incumplimiento de su normativa. VI Software se reserva el derecho de estudiar de forma global un caso en concreto, aunque el usuario no haya incumplido normativa global o los vigentes términos. Ningún servidor podrá oponerse a los vigentes términos o a la normativa global establecida. Todo el contenido generado por los usuarios en nuestros servidores y plataformas es responsabilidad de sus respectivos autores. No nos hacemos responsables de dicho contenido. Sin embargo, nos reservamos el derecho de eliminar o tomar medidas contra contenido que viole estos Términos o las reglas del servidor, si es necesario.
+### Server Rules
 
-7. Comportamiento prohibido
+Each server hosted on VI Software has its own specific rules, in compliance with our platform's prevailing terms. It is the users' responsibility to familiarize themselves with and adhere to the rules and guidelines set by the server they access. Servers may implement their own penalties for rule violations. VI Software reserves the right to globally review a particular case, even if the user has not violated global regulations or the prevailing terms. No server may oppose the prevailing terms or established global policies. All user-generated content on our servers and platforms is the responsibility of its respective authors. We are not responsible for such content. However, we reserve the right to remove or take action against content that violates these Terms or any of our other politics.
 
-Se prohíbe expresamente cualquier comportamiento que pueda causar daño a otra persona o servicio en internet, incluyendo pero no limitado a:
+### Prohibited Behavior
 
-* Ataques de denegación de servicio (DDoS) u otros intentos de interrumpir los servicios de otros usuarios o empresas.
-* El uso de malware, virus u otros programas maliciosos para comprometer la seguridad de los sistemas o robar información personal.
-* La difusión de información falsa o engañosa con el objetivo de dañar la reputación de individuos o entidades.
-* La suplantación de identidad o la participación en actividades fraudulentas en línea.
-* La explotación de vulnerabilidades de seguridad para acceder de manera no autorizada a sistemas o datos.
-* La participación en actividades ilegales, como el hacking, la piratería informática o el fraude en línea.
+The following behavior is expressly prohibited as it may cause harm to another person or internet service, including but not limited to:
 
-8. Limitaciones para servidores
+* Denial of Service (DDoS) attacks or other attempts to disrupt other users' or companies' services.
+* Use of malware, viruses, or other malicious programs to compromise system security or steal personal information.
+* Spreading false or misleading information aimed at damaging the reputation of individuals or entities.
+* Identity theft or participation in online fraudulent activities.
+* Exploiting security vulnerabilities to gain unauthorized access to systems or data.
+* Participation in illegal activities such as hacking, piracy, or online fraud.
 
-Los servidores alojados por VI Software deben adherirse a ciertas pautas para mantener un ambiente seguro y positivo para todos los usuarios. Por lo tanto, se prohíbe expresamente lo siguiente:
+### Server Limitations
 
-a. Contenido para mayores de edad y pornografía: Los servidores no pueden compartir, publicar o promover contenido para mayores de edad, incluida la pornografía.
+Servers hosted on VI Software must adhere to certain guidelines to maintain a safe and positive environment for all users. Therefore, the following is strictly prohibited:
 
-b. Discriminación y acoso: No se tolerará ninguna forma de discriminación, acoso o comportamiento ofensivo hacia cualquier usuario o grupo de usuarios en los servidores.
+* **Adult Content and Pornography**: Servers cannot share, post, or promote adult content, including pornography.
+* **Discrimination and Harassment**: No form of discrimination, harassment, or offensive behavior towards any user or group of users will be tolerated on servers.
+* **Incitement to Violence or Harm**: Servers must not allow the promotion of violence, physical and/or psychological harm, or any form of harmful behavior.
+* **Copyright Infringement**: Distribution of copyrighted content without proper authorization is not permitted.
+* **Deception and Fraud**: Engaging in deceptive, fraudulent activities, or any actions that could harm other users is prohibited.
+* **Exploitation of Bugs or Vulnerabilities**: Servers must not exploit software bugs or vulnerabilities to gain unfair advantages or compromise system integrity.
+* **Misleading Advertising**: Servers must not engage in misleading or false advertising that could mislead users.
+* **Illegal Activities**: Conducting illegal activities on servers is strictly prohibited, and any participation in illegal activities will result in disciplinary action.
+* **Privacy Violations**: Servers must not invade users' privacy, disclose personal information without consent, or engage in unauthorized tracking.
+* **Unauthorized Modifications**: Unauthorized modifications that negatively affect other users' gameplay experience or compromise system security are not allowed.
+* **Non-Compliance with Platform Policies**: Servers must comply with the rules of the platforms they operate on, such as Discord and Minecraft, and violating these rules may result in disciplinary actions by VI Software. VI Software reserves the right to investigate and take action against any server found in violation of these prohibitions. Disciplinary actions may include the suspension or termination of services for the offending server.
 
-c. Incitación a la violencia o daño: Los servidores no deben permitir la promoción de la violencia, el daño físico y/o psicológico o cualquier forma de conducta perjudicial.
+### Modifications to the Terms
 
-d. Violación de derechos de autor: No se permite la distribución de contenido protegido por derechos de autor sin la debida autorización.
-
-e. Engaño y fraude: Queda prohibido llevar a cabo actividades engañosas, fraudulentas o cualquier acción que pueda perjudicar a otros usuarios.
-
-f. Abuso de errores o vulnerabilidades: Los servidores no deben aprovechar errores o vulnerabilidades en el software para obtener ventajas injustas o comprometer la integridad del sistema.
-
-g. Publicidad engañosa: Los servidores no deben realizar publicidad engañosa o falsa que pueda inducir a error a los usuarios.
-
-h. Actividades ilegales: Está estrictamente prohibido llevar a cabo actividades ilegales en los servidores, y cualquier forma de participación en actividades ilegales resultará en acciones disciplinarias.
-
-i. Violación de privacidad: Los servidores no deben invadir la privacidad de los usuarios, divulgar información personal sin consentimiento o realizar seguimientos no autorizados.
-
-j. Uso de modificaciones no autorizadas: No se permite el uso de modificaciones no autorizadas que puedan afectar negativamente la experiencia de juego de otros usuarios o comprometer la seguridad del sistema.
-
-k. Incumplimiento de normativas de la plataforma: Los servidores deben cumplir con las normativas de las plataformas en las que operan, como Discord y Minecraft, y la violación de estas normativas puede resultar en acciones disciplinarias por parte de VI Software. VI Software se reserva el derecho de investigar y tomar medidas contra cualquier servidor que se encuentre en violación de estas prohibiciones. Las acciones disciplinarias pueden incluir la suspensión o terminación del servicio para el servidor infractor.
-
-9. Modificaciones de los Términos
-
-Nos reservamos el derecho de modificar estos Términos en cualquier momento. Las modificaciones entrarán en vigencia tan pronto como se publiquen en nuestros sitios web o plataformas. Se recomienda a los usuarios revisar estos Términos periódicamente para estar al tanto de las actualizaciones. Al utilizar los servicios de VI Software, usted acepta cumplir con estos Términos de Servicio. Si no está de acuerdo con estos términos, le pedimos que no utilice nuestros servicios.
+We reserve the right to modify these Terms at any time. Modifications will take effect as soon as they are published on our websites or platforms. Users are encouraged to periodically review these Terms to stay informed of updates. By using VI Software's services, you agree to comply with these Terms of Service. If you do not agree with these Terms, we ask that you refrain from using our services.

@@ -1,34 +1,63 @@
 # 📔 Contribution Guidelines
 
-¡Gracias por considerar contribuir a nuestra comunidad de código abierto! Al participar en este proyecto, estás ayudando a mejorarlo para todos. A continuación se presentan algunas pautas para garantizar un proceso de contribución fluido y colaborativo: Código de conducta Antes de comenzar, familiarícese con nuestro Código de conducta. Estamos comprometidos a fomentar una comunidad inclusiva y respetuosa. Cómo contribuir.
+## Contribution Guidelines **for VI Software**
 
-<pre class="language-bash"><code class="lang-bash">git clone https://github.com/you<a data-footnote-ref href="#user-content-fn-1">r</a>-username/repository.git
-</code></pre>
+Welcome to VI Software! We appreciate your interest in contributing to our open-source projects. This document outlines the guidelines and standards for contributing to ensure a collaborative, productive, and inclusive environment for everyone.
 
-**Crear una sucursal:** crea una nueva sucursal para tu contribución.
+#### **1. How to Contribute**
 
-```bash
-git checkout -b feature/your-feature
-```
+* **Bug Reports**:\
+  If you encounter a bug or issue, please check if it’s already been reported. If not, open a new issue with detailed information, including steps to reproduce the problem, expected vs actual results, and relevant logs.
+* **Feature Requests**:\
+  We welcome ideas for new features. Before submitting a feature request, review existing requests to avoid duplicates. Provide a clear description of the feature and its potential benefits to the community.
+* **Code Contributions**:\
+  Code contributions are highly encouraged! To contribute:
+  1. Fork the repository and create a feature branch.
+  2. Make sure your code adheres to the project’s style guidelines.
+  3. Ensure all tests pass before submitting a pull request (PR).
+  4. Submit a PR with a clear title and description of the changes.
+  5. Include relevant issue numbers in the PR description if applicable.
 
-**Realizar cambios:** realice sus cambios en el código base. Asegúrese de que su código cumpla con los estándares de codificación del proyecto.&#x20;
+#### **2. Contribution Workflow**
 
-**Confirmar cambios:** confirme sus cambios con un mensaje de confirmación claro y conciso.
+* **Fork the Repository**: Fork the main repository to your GitHub account.
+* **Clone the Repository**: Clone your fork to work on the changes locally.
+* **Create a Branch**: Create a feature branch for your work (`git checkout -b feature-branch-name`).
+* **Commit Your Changes**: Write descriptive commit messages that explain the purpose of the changes.
+* **Submit a Pull Request (PR)**: Once your changes are complete, push your branch to GitHub and submit a PR. Ensure your PR is concise but contains enough detail for reviewers to understand the changes.
 
-```bash
-git commit -m "Comentario tuyo"
-```
+#### **3. Code Style and Best Practices**
 
-**Push Changes:** Envía tus cambios a tu repositorio bifurcado.
+* Follow the coding style guide outlined in the repository’s `README.md` or `CONTRIBUTING.md`.
+* Keep your code clean, modular, and well-documented.
+* Write tests where applicable to ensure the functionality of your contribution.
+* Avoid adding unnecessary dependencies.
 
-```bash
-git push origin feature/your-feature
-```
+#### **4. Review Process**
 
-Cree una solicitud de extracción desde su sucursal al repositorio principal. Proporcione una descripción detallada de sus cambios.
+* All contributions will be reviewed by project maintainers.
+* Feedback will be provided through comments on the pull request.
+* Be patient; reviews may take time depending on the availability of maintainers.
+* Once approved, your contribution will be merged into the main branch.
 
-## **Consulte** [pull-request-guidelines.md](pull-request-guidelines.md "mention") **antes de enviar una pull request.**
+#### **5. Communication**
 
-Tu contribución es invaluable para nosotros. Agradecemos su esfuerzo y tiempo dedicado a mejorar este proyecto. ¡Juntos podemos hacerlo aún mejor! Si tiene alguna pregunta o necesita más aclaraciones, no dude en comunicarse con nosotros. ¡Feliz codificación!
+* Use respectful and inclusive language in discussions, comments, and commit messages.
+* Feel free to ask questions. Whether you're a newcomer or an experienced contributor, we value all input.
+* For larger changes or discussions, consider opening an issue first to get community feedback.
 
-[^1]: 
+#### **6. Contributor License Agreement (CLA)**
+
+To protect both the project and contributors, we require you to sign a Contributor License Agreement (CLA). By signing the CLA, you grant us the right to use your contributions within the project.
+
+#### **7. Code of Conduct**
+
+We expect all contributors to adhere to our Code of Conduct. Be respectful, inclusive, and mindful of others.
+
+#### **8. Acknowledgments**
+
+We value and acknowledge all contributions, whether it’s code, documentation, bug reports, or ideas. Every contribution makes our community stronger.
+
+***
+
+**Thank you for contributing to \[Organization Name]!** We look forward to collaborating with you and appreciate your support in making this project better for everyone.
