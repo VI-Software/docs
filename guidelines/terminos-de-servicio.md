@@ -1,9 +1,5 @@
 # 📔 Términos de Servicio
 
-Aquí tienes la traducción al inglés de los **Términos de Servicio de VI Software**:
-
-***
-
 **VI Software Terms of Service**\
 **Effective Date: February 17, 2024**
 -------------------------------------
