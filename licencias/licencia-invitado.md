@@ -8,7 +8,7 @@ Para efectos de este Contrato de Licencia, se aplican las siguientes definicione
 
 * **Invitado**: Persona física o jurídica que ha celebrado un acuerdo con un cliente de VI Software para utilizar los servicios de VI Software.
 * **Servicios**: Todos los productos y servicios proporcionados por VI Software, incluyendo software, plataformas en línea, soporte técnico y otros servicios relacionados.
-* **Términos de Servicio**: Normas y regulaciones que rigen el uso de los Servicios de VI Software, disponibles en [Términos de Servicio](../guidelines/terminos-de-servicio.md).
+* **Términos de Servicio**: Normas y regulaciones que rigen el uso de los Servicios de VI Software, disponibles en [Términos de Servicio](../guidelines/terms-of-service.md).
 * **Código de Conducta**: Directrices de comportamiento y normas éticas que todos los Clientes deben seguir al interactuar con la comunidad de VI Software, disponibles en [Código de Conducta](../guidelines/code-of-conduct.md).
 * **Discord**: Plataforma de comunicación en línea utilizada por VI Software para la interacción y la comunidad.
 
@@ -22,7 +22,7 @@ La licencia concedida por VI Software al invitado es personal, intransferible y 
 
 ### 3. Adherencia a los Términos de Servicio
 
-El Invitado debe cumplir con los Términos de Servicio de VI Software, los cuales están disponibles en el siguiente enlace: [Términos de Servicio](../guidelines/terminos-de-servicio.md). Estos términos incluyen, pero no se limitan a:
+El Invitado debe cumplir con los Términos de Servicio de VI Software, los cuales están disponibles en el siguiente enlace: [Términos de Servicio](../guidelines/terms-of-service.md). Estos términos incluyen, pero no se limitan a:
 
 * Promoción del respeto y la no discriminación.
 * Cumplimiento con la legislación aplicable en las plataformas utilizadas.
