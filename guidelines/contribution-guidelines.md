@@ -60,4 +60,4 @@ We value and acknowledge all contributions, whether it’s code, documentation, 
 
 ***
 
-**Thank you for contributing to \[Organization Name]!** We look forward to collaborating with you and appreciate your support in making this project better for everyone.
+**Thank you for contributing to VI Software!** We look forward to collaborating with you and appreciate your support in making this project better for everyone.
