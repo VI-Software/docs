@@ -10,6 +10,7 @@
   * [🎮 Download and Installation of the Launcher on Linux-Based Systems (amd64)](vis-launcher/download-and-installation-of-the-launcher-on-linux-based-systems-amd64.md)
   * [🔼 Actualizar el launcher desde versiones anteriores a Relase 1.5.2](vis-launcher/actualizar-el-launcher-desde-versiones-anteriores-a-relase-1.5.2.md)
   * [⚠️ Error while attempting to connect to VI Software Background Services](vis-launcher/error-while-attempting-to-connect-to-vi-software-background-services.md)
+  * [Exit codes](vis-launcher/exit-codes.md)
 * [VIS PUF](puf/README.md)
   * [📂 Tutorials](puf/tutorials/README.md)
     * [📃 PIN de Soporte](puf/tutorials/pin-de-soporte.md)
