@@ -8,8 +8,8 @@ description: Inside contributors to VI Software
 
 | Nickname     | Current Rank          | Join Date           | GitHub Profile                                                     |
 | ------------ | --------------------- | ------------------- | ------------------------------------------------------------------ |
-| Crujera27\_3 | Project Administrator | 11 of Agost, 2022   | [https://github.com/Crujera27/](https://github.com/Crujera27/)     |
-| itsbenson    | Project Administrator | 29 of Agost, 2023   | [https://github.com/antoniorexuo](https://github.com/antoniorexuo) |
+| Crujera27\_3 | Project Administrator | 11 of August, 2022  | [https://github.com/Crujera27/](https://github.com/Crujera27/)     |
+| itsbenson    | Project Administrator | 29 of August, 2023  | [https://github.com/antoniorexuo](https://github.com/antoniorexuo) |
 | toddya3      | Project Maintainer    | 8 of December, 2023 | [https://github.com/toddya3](https://github.com/toddya3)           |
 
 
