@@ -2,9 +2,10 @@
 
 **Platform License Agreement (PLA) for server**
 
-**Effective Date: November 11, 2024**
+Effective Date: **November 11, 2024**
 
-**Introduction**\
+## **Introduction**
+
 This Platform License Agreement ("Agreement") governs the terms and conditions under which server owners ("Licensee," "you," or "your") may use the services provided by VI Software ("we," "our," or "the Company") for hosting servers within the VI Software platform. By accessing, using, or maintaining a server on our platform, you agree to comply with all the terms and conditions outlined in this Agreement.
 
 This Agreement is essential for fostering a respectful, secure, and sustainable environment for all server owners and users in the VI Software ecosystem, and as such, it establishes clear guidelines for the usage and management of the platform's tools, services, and resources.
