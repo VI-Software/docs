@@ -1,82 +1,104 @@
-# 📔 Términos de Servicio
+# 📔 Terms of Service
 
-**VI Software Terms of Service**\
-**Effective Date: February 17, 2024**
--------------------------------------
+## **VI Software Terms of Service**
 
-Please read these Terms of Service ("Terms") carefully before using the services provided by VI Software ("we," "our," or "the Company"). By using our services, you agree to be legally bound by these Terms, so we recommend that you read them thoroughly.
+### _Effective Date: February 17, 2024_
 
-### Respect and Non-Discrimination
+***
 
-At VI Software, we are committed to promoting respect and non-discrimination. All users must treat others with courtesy and respect, regardless of their credentials, ethnicity, sexual orientation, gender, religion, or any other personal characteristics. Discriminatory, offensive, or harassing comments, attitudes, or behaviors within our community will not be tolerated. This includes but is not limited to:
+## **1. Acceptance of Terms**
 
-* Insults based on personal characteristics.
-* Comments, images, or content that promote hate or violence towards any group or individual.
-* Continuous or systematic harassment of other users.
-* The spread of negative or harmful stereotypes about any group.
+By accessing or using VI Software’s platform to create or join modded Minecraft servers ("Services"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree with any part of these Terms, you must discontinue use of the Services immediately. These Terms apply to all users of the platform, including but not limited to server creators ("Licensees"), players, and contributors.
 
-### Applicable Legislation
+***
 
-By using our services, users are subject to the applicable legislation on platforms we use, such as Discord and Minecraft. Users must comply with the terms of service and policies of these platforms, and violating such terms may result in disciplinary actions by VI Software.
+## **2. Platform Overview**
 
-### Rights of VI Software
+VI Software offers a platform that enables users to create modded Minecraft servers with a range of custom modifications and manage them via an easy-to-use launcher. Users can access and play on these modded servers, interact with others, and enjoy enhanced Minecraft gameplay experiences.
 
-We reserve the right to take actions, including but not limited to terminating, suspending, or reinstating user accounts, in the event of violations of these Terms or behaviors we consider inappropriate or harmful to the community. At our discretion, we will decide what actions to take. Such actions may include:
+***
 
-* Removing offensive or inappropriate content.
-* Temporarily or permanently suspending user accounts.
-* Deleting servers that violate our policies.
-* Banning users from participating in future VI Software services or events.
+## **3. Server Governance by the Platform License Agreement (PLA)**
 
-### Community Guidelines
+* **Server Creators (Licensees):** If you are a server creator, you must agree to the **Platform License Agreement (PLA)** in addition to these Terms of Service. The PLA governs the operation, management, and content of your modded Minecraft server and supersedes any conflicting provisions in this TOS. In case of any conflict between the TOS and the PLA, the terms of the PLA shall take precedence with respect to server operations.
+* **Player Access:** Players can access modded Minecraft servers hosted by creators using the VI Software launcher. Players must adhere to the Terms of Service and the specific rules set by the server creators, as described in the respective server’s guidelines. However, server operations themselves are still governed by the PLA.
 
-Users agree to follow basic guidelines for coexisting on our platform. This includes mutual respect, constructive collaboration, and positive participation in the community. Any behavior that violates these guidelines may result in disciplinary measures, such as:
+***
 
-* Insults, defamation, or harassment towards other users.
-* Deliberate disruption of conversations or activities of other users.
-* Use of language or images that may be considered offensive or inappropriate.
-* Incitement to hate or violence.
-* Disruptive behavior that negatively impacts other users' experience.
+## **4. Account Creation and Responsibilities**
 
-### Adult Content and Pornography Policy
+To use the VI Software platform, users must create an account. By doing so, you agree to provide accurate and up-to-date information. You are responsible for the security of your account and for all activities that occur under your account, whether or not authorized by you. VI Software is not liable for any unauthorized access to your account.
 
-It is strictly prohibited to share, post, or promote adult content, including pornography, on our servers and platforms. Violating this rule will result in disciplinary actions, including but not limited to account and/or server suspension or termination. This includes:
+***
 
-* Sharing images, videos, or text of a pornographic nature.
-* Promoting explicit or inappropriate sexual activities.
-* Providing access to or distributing adult content to underage users.
+## **5. License to Create and Access Modded Servers**
 
-### Server Rules
+* **License for Server Creators (Licensees):** VI Software grants server creators a non-exclusive, revocable license to use the platform to create, configure, and manage modded Minecraft servers. As a server creator, you are responsible for ensuring your server’s compliance with these Terms and the **Platform License Agreement (PLA)**.
+* **Access for Players:** Players are granted a limited, non-exclusive license to use the VI Software launcher to access modded Minecraft servers. Players must comply with all applicable server rules, conduct expectations, and the Terms of Service while using the platform.
 
-Each server hosted on VI Software has its own specific rules, in compliance with our platform's prevailing terms. It is the users' responsibility to familiarize themselves with and adhere to the rules and guidelines set by the server they access. Servers may implement their own penalties for rule violations. VI Software reserves the right to globally review a particular case, even if the user has not violated global regulations or the prevailing terms. No server may oppose the prevailing terms or established global policies. All user-generated content on our servers and platforms is the responsibility of its respective authors. We are not responsible for such content. However, we reserve the right to remove or take action against content that violates these Terms or any of our other politics.
+***
 
-### Prohibited Behavior
+## **6. Platform Usage Guidelines**
 
-The following behavior is expressly prohibited as it may cause harm to another person or internet service, including but not limited to:
+To maintain a safe, respectful, and enjoyable environment, users agree to the following platform usage guidelines:
 
-* Denial of Service (DDoS) attacks or other attempts to disrupt other users' or companies' services.
-* Use of malware, viruses, or other malicious programs to compromise system security or steal personal information.
-* Spreading false or misleading information aimed at damaging the reputation of individuals or entities.
-* Identity theft or participation in online fraudulent activities.
-* Exploiting security vulnerabilities to gain unauthorized access to systems or data.
-* Participation in illegal activities such as hacking, piracy, or online fraud.
+* **Respect for Others:** All users, including both server creators and players, must treat each other with respect. Discriminatory, harassing, or offensive behavior based on race, ethnicity, gender, religion, or other personal characteristics is strictly prohibited.
+* **No Harmful Content:** Content or behavior that promotes hate speech, violence, exploitation, or illegal activities will not be tolerated. This includes, but is not limited to, the distribution of malicious software, cheats, or exploits.
+* **Compliance with the Code of Conduct:** All server creators and players must adhere to VI Software’s Code of Conduct. This includes maintaining a positive, inclusive community, respecting other users, and avoiding disruptive or harmful actions.
 
-### Server Limitations
+***
 
-Servers hosted on VI Software must adhere to certain guidelines to maintain a safe and positive environment for all users. Therefore, the following is strictly prohibited:
+## **7. Server Content and Customization**
 
-* **Adult Content and Pornography**: Servers cannot share, post, or promote adult content, including pornography.
-* **Discrimination and Harassment**: No form of discrimination, harassment, or offensive behavior towards any user or group of users will be tolerated on servers.
-* **Incitement to Violence or Harm**: Servers must not allow the promotion of violence, physical and/or psychological harm, or any form of harmful behavior.
-* **Copyright Infringement**: Distribution of copyrighted content without proper authorization is not permitted.
-* **Deception and Fraud**: Engaging in deceptive, fraudulent activities, or any actions that could harm other users is prohibited.
-* **Exploitation of Bugs or Vulnerabilities**: Servers must not exploit software bugs or vulnerabilities to gain unfair advantages or compromise system integrity.
-* **Misleading Advertising**: Servers must not engage in misleading or false advertising that could mislead users.
-* **Illegal Activities**: Conducting illegal activities on servers is strictly prohibited, and any participation in illegal activities will result in disciplinary action.
-* **Privacy Violations**: Servers must not invade users' privacy, disclose personal information without consent, or engage in unauthorized tracking.
-* **Unauthorized Modifications**: Unauthorized modifications that negatively affect other users' gameplay experience or compromise system security are not allowed.
-* **Non-Compliance with Platform Policies**: Servers must comply with the rules of the platforms they operate on, such as Discord and Minecraft, and violating these rules may result in disciplinary actions by VI Software. VI Software reserves the right to investigate and take action against any server found in violation of these prohibitions. Disciplinary actions may include the suspension or termination of services for the offending server.
+* **Server Creator Responsibility:** As a server creator, you are responsible for the content and modifications hosted on your server. You must ensure that all modded content, such as mods, plugins, and configurations, is legal and compliant with all applicable intellectual property laws.
+* **Modding and Content Sharing:** You are responsible for ensuring that mods, plugins, and other custom content you upload or host on your server are not infringing on copyrights or distributing malicious software. You must have the necessary rights to share and use any content provided to other players.
+* **Prohibited Content on Servers:** Servers may not contain or promote illegal, harmful, or offensive content, including but not limited to adult material, malware, cheats, or discriminatory language. Violating this policy will result in the removal of content and possible suspension or termination of server access.
 
-### Modifications to the Terms
+***
 
-We reserve the right to modify these Terms at any time. Modifications will take effect as soon as they are published on our websites or platforms. Users are encouraged to periodically review these Terms to stay informed of updates. By using VI Software's services, you agree to comply with these Terms of Service. If you do not agree with these Terms, we ask that you refrain from using our services.
+## **8. Security and Privacy**
+
+* **Data Protection:** VI Software is committed to protecting user privacy and complying with data protection regulations, including the General Data Protection Regulation (GDPR) for users in the European Union. By using the platform, you agree to our Privacy Policy, which governs how we collect, use, and share your personal data.
+* **Server Security:** Server creators are responsible for securing their servers from unauthorized access, exploits, and other security risks. This includes ensuring that only authorized players have access to their servers and maintaining server configurations to avoid vulnerabilities.
+
+***
+
+## **9. Dispute Resolution**
+
+* **Server Disputes:** If disputes arise between players or between players and server creators, VI Software encourages all parties to attempt resolution privately or through platform tools (if available). VI Software will not mediate disputes, but will take appropriate action if violations of these Terms occur.
+* **Third-Party Services:** If server creators or players utilize third-party services, such as modding tools, plugins, or external websites, VI Software is not responsible for any disputes or issues related to those services. Users should address issues directly with the third-party providers.
+
+***
+
+## **10. Prohibited Activities**
+
+The following activities are strictly prohibited on the platform:
+
+* **Illegal Activities:** Engaging in any illegal activities, including but not limited to piracy, fraud, or cybercrimes, is prohibited. This includes sharing or using pirated software or engaging in unauthorized distribution of mods or other content.
+* **Malicious Software and Exploits:** The use of malicious software, hacks, cheats, or exploits to disrupt gameplay or server functionality is not allowed. Server creators must also ensure that their servers do not host or facilitate such activities.
+* **Spamming and Disruption:** Spamming the platform with unwanted messages, advertisements, or malicious content is prohibited. Users must refrain from disrupting other users’ experiences on servers, including through constant griefing, trolling, or harassment.
+
+***
+
+## **11. Termination and Suspension**
+
+* **Violation of Terms:** VI Software reserves the right to suspend or terminate your access to the platform if you violate these Terms, including the distribution of harmful content, cheating, or harassment of other users. This may include suspension of accounts, removal of servers, or banning users from accessing the platform.
+* **Server Termination by Creator:** Server creators can voluntarily terminate their server by removing all content and ceasing to use the platform. Upon termination, the server will no longer be accessible, and any data associated with it may be deleted.
+
+***
+
+## **12. Modifications to the Terms**
+
+VI Software reserves the right to modify these Terms of Service at any time, and any changes will be posted on our platform. By continuing to use the Services after modifications are posted, you agree to the updated Terms. We encourage you to review these Terms periodically for any updates.
+
+***
+
+## **13. Limitation of Liability**
+
+VI Software is not responsible for any damages arising from the use of the platform, including but not limited to data loss, server downtime, or issues arising from server configuration. You use the platform at your own risk, and the platform is provided "as is."
+
+***
+
+## **14. Governing Law**
+
+These Terms are governed by and construed in accordance with the laws of Spain. Any legal disputes related to the use of VI Software will be handled under Spanish jurisdiction.
