@@ -1,8 +1,8 @@
 # 📔 Platform License Agreement
 
-**Platform License Agreement (PLA) for server**
+### **Platform License Agreement (PLA) for server**
 
-Effective Date: **November 11, 2024**
+Effective Date: January 1, 2025
 
 ## **Introduction**
 
