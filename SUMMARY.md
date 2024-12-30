@@ -27,6 +27,7 @@
   * [💻 API](vis-skins/api.md)
 * [Guidelines](guidelines/README.md)
   * [📔 Terms of Service](guidelines/terms-of-service.md)
+  * [📔 Privacy Policy](guidelines/privacy-policy.md)
   * [📔 Code of Conduct](guidelines/code-of-conduct.md)
   * [📔 Platform License Agreement](guidelines/platform-license-agreement.md)
   * [📔 Contribution Guidelines](guidelines/contribution-guidelines.md)
