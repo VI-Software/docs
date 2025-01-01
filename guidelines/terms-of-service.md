@@ -1,6 +1,6 @@
 # 📔 Terms of Service
 
-### **VI Software Terms of Service** **Effective Date**: February 17, 2024
+### **VI Software Terms of Service** Effective Date: January 1, 2025
 
 1. **Acceptance of Terms**\
    By accessing or using VI Software’s platform to create or join modded Minecraft servers ("Services"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree with any part of these Terms, you must discontinue use of the Services immediately. These Terms apply to all users of the platform, including but not limited to server creators ("Licensees"), players, and contributors.
