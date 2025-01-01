@@ -1,71 +1,98 @@
 # 📔 Privacy Policy
 
-## Privacy Policy
+## Privacy Policy for VI Software Applications
 
-### 1. Introduction
+Effective Date: January 1, 2025
 
-Welcome to VI Software. Based in Spain, we are committed to protecting your privacy and ensuring that your personal information is processed securely and responsibly. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our application, in compliance with the General Data Protection Regulation (GDPR) and other applicable laws in the European Union.
+VI Software ("we," "us," or "our") is dedicated to protecting your privacy and processing your personal information securely and responsibly. This Privacy Policy explains how we collect, use, disclose, and safeguard your data when using our applications ("the Application"). It adheres to the General Data Protection Regulation (GDPR), Organic Law 3/2018 of December 5 (LOPDGDD), and other applicable European and Spanish laws.
 
-### 2. Information We Collect
+### 1. Information We Collect
 
-We collect the following categories of information:
+#### 1.1 Personal Information
 
-1. **Personal Information**: Upon registration or login, we collect your username, email address, and other relevant profile details.
-2. **Authentication Data**: We collect authentication tokens and related data to verify your identity and facilitate access to our services.
-3. **Usage Data**: We gather information regarding your interactions with the application, including IP addresses, browser details, and activity logs.
-4. **Minecraft Data**: If you link a Minecraft account, we collect your Minecraft username, UUID, and other associated profile data.
+* **Registration Details**: Username, email address, and profile details provided during account creation or login.
+* **Authentication Data**: Tokens and related data to verify identity and enable secure access.
 
-### 3. Purpose of Data Collection
+#### 1.2 Usage Data
 
-The information we collect is used for the following purposes:
+* **Activity Logs**: Interactions with the Application, including IP addresses, browser details, and access timestamps.
+* **Server Information**: Technical data from servers connected via the Application.
 
-1. **Authentication and Security**: To verify your identity, manage access to our services, and ensure the security of our platform.
-2. **Service Provision**: To deliver and improve our services, including account management, third-party integrations, and Minecraft-related functionalities.
-3. **Communication**: To notify you of updates, security alerts, and other relevant information about our services.
-4. **Compliance with Legal Obligations**: To meet legal requirements, fulfill contractual obligations, and protect our legitimate interests.
+#### 1.3 Linked Account Data
+
+* If you link a Minecraft account, we collect your Minecraft username, UUID, and associated profile information.
+
+#### 1.4 Security Information
+
+* **Logged Data**: Information such as IP addresses, browser agents, login times, and application URLs to ensure system integrity and security.
+
+### 2. Purpose of Data Collection
+
+We collect and use your data to:
+
+* **Authentication & Security**: Verify identity, manage account access, and ensure platform security.
+* **Service Delivery**: Provide, maintain, and improve our services, including integrations and Minecraft-related features.
+* **Communication**: Notify you about updates, security alerts, and relevant service information.
+* **Legal Compliance**: Meet legal and regulatory obligations.
+* **Optimization**: Enhance functionality and resolve technical issues.
+
+### 3. Legal Basis for Data Processing
+
+The legal bases for processing your personal information are:
+
+* **Contract Performance**: To ensure the Application's functionality.
+* **Consent**: For processing that requires your explicit permission.
+* **Legitimate Interests**: To improve our services and maintain security.
 
 ### 4. Data Sharing and Disclosure
 
-We do not share your personal information with third parties except in the following circumstances:
+#### 4.1 With Your Consent
 
-1. **With Your Consent**: We may share your data with third parties if you have explicitly granted us permission to do so.
-2. **Service Providers**: We may share your information with trusted service providers who assist us in operating the application and delivering services to you.
-3. **Legal Requirements**: We may disclose your information if required by law or in response to legal processes.
+We share data only when you provide explicit permission.
+
+#### 4.2 Service Providers
+
+We may share your information with trusted third-party service providers under confidentiality agreements for operational support.
+
+#### 4.3 Legal Requirements
+
+Your data may be disclosed to comply with legal obligations or lawful government requests.
 
 ### 5. Data Security
 
-We implement appropriate technical and organizational measures to protect your personal data from unauthorized access, use, or disclosure. All data is encrypted, and access is restricted to authorized personnel only.
+We implement appropriate technical and organizational measures to protect your data from unauthorized access, loss, or misuse. All data is encrypted, and access is restricted to authorized personnel.
 
 ### 6. Data Retention
 
-We retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law. After this period, your data will either be anonymized or securely deleted.
+Your data is retained only as long as necessary for the purposes outlined in this Privacy Policy or as required by law. Once no longer needed, it will be securely deleted or anonymized.
 
 ### 7. Your Rights
 
-In accordance with the GDPR and applicable data protection laws, you have the following rights regarding your personal data:
+Under GDPR and LOPDGDD, you have the following rights:
 
-1. **Access**: You can request access to the personal information we hold about you and obtain a copy of that data.
-2. **Correction**: You can request the correction of inaccurate or incomplete information.
-3. **Deletion**: You can request the deletion of your personal information, subject to legal obligations and legitimate interests.
-4. **Objection**: You can object to the processing of your personal information in certain circumstances, including direct marketing.
-5. **Data Portability**: You may request the transfer of your personal data to another service provider, where applicable.
+* **Access**: Request access to the personal information we hold about you.
+* **Correction**: Correct inaccurate or incomplete data.
+* **Deletion**: Request deletion of your data, subject to legal obligations.
+* **Objection**: Object to certain types of data processing.
+* **Portability**: Transfer your data to another service provider.
+* **Restriction**: Request restricted processing under specific conditions.
 
-If you wish to exercise any of these rights, please contact us using the details provided below.
+To exercise these rights, contact us via email.
 
 ### 8. Limitation of Liability
 
-VI Software, its affiliates, and contributors shall not be held liable for any direct, indirect, incidental, consequential, or special damages arising from the use of the application or the information provided within it. This includes, but is not limited to, damages for loss of data, loss of profits, or other intangible losses, even if we have been advised of the possibility of such damages. By using the application, you agree to assume all risks associated with its use.
+We are not liable for direct, indirect, incidental, consequential, or special damages arising from the use of the Application. By using the Application, you assume all associated risks.
 
 ### 9. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we will notify you of significant changes through our application or via email.
+We may update this Privacy Policy periodically. Changes will be posted on this page, and significant updates will be communicated through the Application or email.
 
 ### 10. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+For questions or concerns about this Privacy Policy, please contact us:
 
-**Email**: [privacy@visoftware.dev](mailto:privacy@visoftware.dev)
+* **Email**: privacy@visoftware.dev
 
-***
 
-By using our platform, you agree to the terms of this Privacy Policy. We appreciate your trust in VI Software and are committed to safeguarding your personal information.
+
+By using our Application, you agree to the terms of this Privacy Policy. Thank you for trusting VI Software with your data.
