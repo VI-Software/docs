@@ -1,0 +1,15 @@
+2025-02-20 16:57:43 gpg[15204] enabled debug flags: memstat trust extprog
+2025-02-20 16:57:43 gpg[15204] enabled compatibility flags:
+2025-02-20 16:57:43 gpg[15204] writing to stdout
+2025-02-20 16:57:43 gpg[15204] RSA/SHA256 signature from: "FD0899B045EDD30E Angel Crujera (GitHub) <miguelangelcrujera@gmail.com>"
+2025-02-20 16:57:43 gpg[15204] keydb: handles=0 locks=0 parse=1 get=0
+2025-02-20 16:57:43 gpg[15204]        build=0 update=0 insert=0 delete=0
+2025-02-20 16:57:43 gpg[15204]        reset=0 found=0 not=0 cache=0 not=0
+2025-02-20 16:57:43 gpg[15204] kid_not_found_cache: count=0 peak=0 flushes=0
+2025-02-20 16:57:43 gpg[15204] sig_cache: total=2 cached=0 good=0 bad=0
+2025-02-20 16:57:43 gpg[15204] objcache: keys=2/2/0 chains=381,1..1 buckets=383/20 attic=254
+2025-02-20 16:57:43 gpg[15204] objcache: uids=1/1/0 chains=106,1..1 buckets=107/20
+2025-02-20 16:57:43 gpg[15204] random usage: poolsize=600 mixed=1 polls=0/3 added=61/800
+              outmix=0 getlvl1=0/0 getlvl2=0/0
+2025-02-20 16:57:43 gpg[15204] rndjent stat: collector=0x00000000 calls=0 bytes=0
+2025-02-20 16:57:43 gpg[15204] secmem usage: 1344/32768 bytes in 2 blocks
