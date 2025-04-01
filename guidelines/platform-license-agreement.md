@@ -1,110 +1,142 @@
 # 📔 Platform License Agreement
 
-### **Platform License Agreement (PLA) for server**
+## **PLATFORM LICENSE AGREEMENT**
 
-Effective Date: January 1, 2025
-
-## **Introduction**
-
-This Platform License Agreement ("Agreement") governs the terms and conditions under which server owners ("Licensee," "you," or "your") may use the services provided by VI Software ("we," "our," or "the Company") for hosting servers within the VI Software platform. By accessing, using, or maintaining a server on our platform, you agree to comply with all the terms and conditions outlined in this Agreement.
-
-This Agreement is essential for fostering a respectful, secure, and sustainable environment for all server owners and users in the VI Software ecosystem, and as such, it establishes clear guidelines for the usage and management of the platform's tools, services, and resources.
+**Effective Date:** January 1, 2025
 
 ***
 
-## 1. **Grant of License**
+### **1. INTRODUCTION**
 
-VI Software grants the Licensee a non-exclusive, non-transferable, and revocable license to operate and manage a server on the VI Software platform, subject to the terms of this Agreement. The Licensee may host content, applications, and services on the server they create within the platform, provided that these activities align with the platform’s policies, including the **Code of Conduct**, **Terms of Service**, and other applicable regulations.
+This Platform License Agreement ("Agreement") is entered into by and between **VI Software** ("Company"), a corporation duly organized and existing under the laws of \[Insert Jurisdiction], and the undersigned server owner ("Licensee"), effective as of the date specified above. This Agreement sets forth the terms and conditions under which Licensee may utilize the services and platform provided by VI Software for the operation and management of modded Minecraft servers within the **VI Software Platform** ("Platform"). By accessing or utilizing the Platform, including but not limited to hosting, managing, or maintaining a server on the Platform, the Licensee agrees to be bound by the terms of this Agreement.
 
-This license grants the Licensee the ability to configure, maintain, and manage the server according to their specifications. However, VI Software retains the right to monitor and take corrective actions if necessary, including suspending or terminating server access in response to policy violations or harmful activities.
-
-***
-
-## 2. **Platform Usage Guidelines**
-
-### **2.1 Server Management**
-
-The Licensee is responsible for the operation and management of their server. This includes, but is not limited to:
-
-* Ensuring the server remains compliant with all relevant legal, regulatory, and ethical guidelines.
-* Maintaining a secure environment on the server and taking necessary actions to prevent unauthorized access.
-* Configuring server resources, managing content, and implementing security measures to protect the server from vulnerabilities, including DDoS attacks, malware, and unauthorized modifications.
-
-### **2.2 Content and Behavior Rules**
-
-The Licensee agrees that all content hosted on their server must comply with [VI Software’s **Fair Use Policy**](fair-use-policy.md) and [**Code of Conduct**](code-of-conduct.md), and will not:
-
-* Host or distribute adult content, pornography, or explicit material.
-* Engage in or promote discriminatory, harassing, or offensive behavior based on race, ethnicity, gender, religion, or any other personal characteristics.
-* Conduct any illegal activities or promote harmful behaviors, including fraud, piracy, or cybercrimes.
-* Violate the privacy rights of users or collect personal information without consent.
-* Distribute copyrighted content without proper authorization or infringe on intellectual property rights.
-
-### **2.3 Community Engagement**
-
-As part of your server, you may foster a community of users. The Licensee must ensure that users of the server are treated respectfully, and that their experience aligns with [VI Software’s Code of Conduct](code-of-conduct.md). You are also responsible for ensuring that any disputes or conflicts within the community are addressed professionally and within the boundaries of this Agreement.
+This Agreement ensures a structured, secure, and sustainable environment for the hosting, management, and operation of servers on the Platform. Licensees and their users (collectively referred to as "Users") are required to comply with the policies and guidelines outlined herein to ensure the integrity, security, and functionality of the Platform.
 
 ***
 
-## 3. **Server Restrictions**
+### **2. GRANT OF LICENSE**
 
-In addition to the content and behavior guidelines mentioned above, the Licensee acknowledges the following limitations on the use of the platform and its resources:
+2.1 **License Grant**\
+VI Software hereby grants the Licensee a **non-exclusive**, **non-transferable**, **revocable** license to operate and manage a server on the Platform, subject to the terms and conditions of this Agreement. The Licensee may host content, applications, and services ("Server Content") within their server, provided such activities are in compliance with this Agreement, the **Terms of Service (TOS)**, the Platform's **Code of Conduct**, and applicable laws.
 
-* **No Unauthorized Commercial Use**: Servers may not be used for commercial purposes without explicit written consent from VI Software. This includes, but is not limited to, offering paid services, hosting paid advertisements, or using the server infrastructure to conduct business without prior approval.
-* **Security Measures**: The Licensee must implement adequate security measures, including but not limited to firewalls, intrusion detection systems, and regular security audits, to protect against unauthorized access and data breaches.
-* **Prohibited Software**: The use of illegal or malicious software, including but not limited to malware, viruses, or exploits that could harm the server infrastructure or violate the rights of other users, is strictly prohibited.
-* **No Unauthorized Modifications**: Licensees must not engage in actions that modify or tamper with the platform’s underlying infrastructure or interfere with the functionality of the service in any manner. This includes exploiting system vulnerabilities, bypassing limitations set by the platform, or engaging in unauthorized access to platform resources.
-
-***
-
-## 4. **Compliance with Applicable Laws**
-
-### **4.1 Adherence to Legal Standards**
-
-The Licensee must comply with all local, regional, and international laws applicable to the operation of their server, including data protection and privacy regulations, intellectual property laws, and online conduct regulations. VI Software is based in Spain, and thus, the platform and its services are also subject to Spanish laws, including the General Data Protection Regulation (GDPR) for European Union residents. The Licensee is solely responsible for understanding and abiding by the relevant laws.
-
-### **4.2 Illegal Content and Activity Reporting**
-
-VI Software reserves the right to suspend or terminate server access if illegal activities or harmful content is found. This includes, but is not limited to, distributing child exploitation material, conducting identity theft, or engaging in cyberattacks. The Licensee agrees to cooperate fully with legal authorities if such content or activities are discovered.
+2.2 **Platform Access and Use**\
+Licensee’s use of the Platform is strictly limited to the operation, management, and administration of a server hosted within the Platform environment. Licensee shall not use the Platform for any other purpose without prior written consent from VI Software. The Platform remains the sole property of VI Software, and Licensee acknowledges no rights or interests in the Platform other than those expressly granted herein.
 
 ***
 
-## 5. **Server Availability and Reliability**
+### **3. PLATFORM USAGE GUIDELINES**
 
-While VI Software aims to maintain a high level of server uptime, the Licensee acknowledges that the platform's services may be subject to occasional outages or disruptions. VI Software does not guarantee continuous availability or error-free performance and will not be held liable for damages resulting from such disruptions. However, we will make reasonable efforts to restore services promptly.
+3.1 **Server Management Obligations**\
+The Licensee is solely responsible for managing their server(s) in accordance with the terms of this Agreement. This includes but is not limited to:
 
-***
+* Ensuring compliance with all applicable laws and regulations, including those related to data protection, intellectual property, and cybersecurity.
+* Maintaining a secure server environment to prevent unauthorized access, data breaches, and other security threats.
+* Regularly monitoring and updating server software and security protocols to mitigate risks associated with cyber threats, including but not limited to Distributed Denial of Service (DDoS) attacks, malware, and exploits.
 
-## 6. **Termination of Server Access**
+3.2 **Content and Conduct Restrictions**\
+The Licensee is expressly prohibited from hosting, distributing, or facilitating the following types of content or behavior on their server:
 
-### **6.1 Violation of Agreement**
+* **Explicit, Pornographic, or Offensive Content**: Content that is sexually explicit, pornographic, or otherwise inappropriate.
+* **Hate Speech, Harassment, and Discrimination**: Content or behavior that promotes hate speech, harassment, or discrimination based on race, religion, gender, sexual orientation, or any other protected category.
+* **Illegal Activities**: Content that promotes or facilitates illegal activities, including but not limited to fraud, piracy, hacking, or any other cybercrimes.
+* **Intellectual Property Violations**: Content that infringes upon the intellectual property rights of others, including software piracy, copyright infringement, or trademark violations.
+* **Malicious Software**: The use of malware, viruses, ransomware, or any other software designed to exploit, damage, or interfere with the functioning of the Platform or its users.
 
-If the Licensee violates any provision of this Agreement, including but not limited to hosting prohibited content, engaging in illegal activities, or failing to comply with platform security measures, VI Software reserves the right to:
-
-* Temporarily suspend or permanently terminate the Licensee's server access.
-* Remove any content that violates these Terms of Service.
-* Take legal action, if necessary, to prevent further violations.
-
-### **6.2 Licensee's Right to Terminate**
-
-The Licensee may terminate this Agreement at any time by ceasing to use the services and removing all content hosted on the platform. Upon termination, the Licensee will forfeit any rights to access the platform or its resources.
-
-***
-
-## 7. **Indemnification and Liability**
-
-The Licensee agrees to indemnify and hold harmless VI Software, its affiliates, employees, and agents from any claims, damages, or expenses (including legal fees) arising from their server’s operation, including violations of this Agreement or any third-party rights. VI Software will not be held liable for any direct, indirect, or consequential damages arising from the Licensee’s use of the platform, including loss of data, service interruptions, or security breaches.
+3.3 **Community Standards**\
+The Licensee is responsible for ensuring that their server users adhere to the community guidelines established in the Platform's **Code of Conduct**, which includes maintaining respectful and lawful interactions. Licensees must facilitate the resolution of disputes among users, ensuring all actions comply with legal and ethical standards.
 
 ***
 
-## 8. **Modifications to the Agreement**
+### **4. SERVER RESTRICTIONS AND OBLIGATIONS**
 
-VI Software reserves the right to modify, amend, or update this Agreement at any time, with or without prior notice. Any changes to the Agreement will be posted on our official platform, and it is the Licensee’s responsibility to review the Agreement periodically. Continued use of the platform after any modifications to the Agreement constitutes acceptance of the updated terms.
+4.1 **Unauthorized Commercial Use**\
+Licensees are prohibited from using the server for any commercial purposes, including but not limited to:
+
+* Hosting advertisements or charging users for access to the server without express written consent from VI Software.
+* Offering paid services, goods, or subscriptions on the server without proper licensing or approval.
+* Conducting business activities that could be deemed as a violation of the terms of this Agreement.
+
+4.2 **Security Obligations**\
+Licensees must implement and maintain appropriate security measures, including but not limited to firewalls, encryption, and intrusion detection systems, to prevent unauthorized access, hacking, or data breaches. Licensees are required to notify VI Software promptly in the event of a security breach or suspected compromise of server security.
+
+4.3 **Prohibited Modifications and Software**\
+Licensees must not:
+
+* Modify, reverse-engineer, or bypass any security features of the Platform.
+* Use or deploy unauthorized third-party software, mods, or plugins that interfere with the normal operation of the Platform or the servers hosted within it.
+* Engage in activities that would harm the integrity or reputation of the Platform or its associated services.
 
 ***
 
-## 9. **Dispute Resolution**
+### **5. COMPLIANCE WITH APPLICABLE LAWS**
 
-The Company may modify the terms of this Creator PLA, including the rights granted hereunder, at any time. By continuing to use the Creator Services or by actively accepting the modifications, you agree to accept the changes. If you do not agree to such modifications, you must cease access to and use of the Services immediately. The Company has no obligation to resolve, or support the resolution of, any dispute that may arise among individual users of the Creator Services, including without limitation between any user of a Custom Server and the relevant Server Admins thereof.
+5.1 **Legal Adherence**\
+Licensees must comply with all applicable laws, regulations, and government orders in relation to the operation and management of their server. This includes:
 
-Furthermore, the Company is not responsible for, nor does it have any obligation to resolve, any dispute arising from interactions with third-party services or third-party content that may be utilized or accessed through the Creator Services. This includes but is not limited to third-party software, APIs, or external platforms that may be integrated into the Services. Users should direct any disputes regarding third-party services or content directly to the relevant third party.
+* **Data Protection and Privacy**: Compliance with data privacy laws, including but not limited to the **General Data Protection Regulation (GDPR)**, the **California Consumer Privacy Act (CCPA)**, and other applicable privacy regulations.
+* **Intellectual Property**: Adherence to laws regarding copyright, trademarks, patents, and licensing agreements governing the content hosted on the server.
+
+5.2 **Reporting and Enforcement**\
+Licensees must cooperate with VI Software in investigating and addressing violations of applicable laws or this Agreement. VI Software reserves the right to suspend, modify, or terminate Licensee’s access to the Platform in the event of violations or illegal activities.
+
+***
+
+### **6. TERMINATION OF SERVER ACCESS**
+
+#### **6.1 Termination for Breach of Contract**
+
+VI Software reserves the right to suspend or terminate the Licensee's access to the Platform, remove non-compliant content, and take further legal action in the event of a material breach of this Agreement. Breaches of this Agreement include, but are not limited to, the following:
+
+* **Unauthorized Commercial Activities**: Engaging in business activities, such as hosting paid advertisements or offering paid services, without the express written consent of VI Software.
+* **Distribution of Illegal or Harmful Content**: Hosting or facilitating the distribution of content that violates any applicable laws or regulations, including but not limited to illegal, harmful, defamatory, or offensive material.
+* **Non-compliance with Security Obligations**: Failing to implement or maintain adequate security measures to protect the server from unauthorized access, cyber threats, or data breaches.
+* **Violation of Intellectual Property**: Hosting or facilitating content that infringes upon the intellectual property rights of third parties, including the unauthorized use of copyrighted, trademarked, or patented material.
+* **Failure to Maintain Platform Standards**: Failure to comply with the Platform’s policies, including the Code of Conduct and the Terms of Service, resulting in disruption to the Platform’s integrity or the safety of its users.
+
+In the event of such a breach, VI Software may, at its sole discretion:
+
+* Issue a written notice detailing the breach and the necessary corrective actions.
+* Suspend or terminate Licensee’s access to the Platform, in whole or in part.
+* Remove any non-compliant content from the Platform or server.
+* Seek injunctive relief, damages, or any other legal remedy available under applicable law.
+
+VI Software may also pursue legal action against the Licensee to recover damages arising from the breach, including but not limited to costs incurred due to system disruption, intellectual property violations, or any other material damages.
+
+6.2 **Voluntary Termination**\
+Licensee may terminate this Agreement at any time by ceasing the use of the Platform and removing all hosted content. Upon termination, Licensee forfeits all rights to access the Platform and any content hosted on it.
+
+***
+
+### **7. INDEMNIFICATION AND LIABILITY**
+
+7.1 **Indemnification**\
+The Licensee agrees to indemnify, defend, and hold harmless VI Software, its affiliates, directors, employees, and agents from and against any and all claims, demands, liabilities, damages, or expenses (including legal fees) arising from:
+
+* The operation and management of the Licensee’s server.
+* Violations of this Agreement, the TOS, or any applicable laws.
+* Infringement of third-party rights, including intellectual property rights.
+
+7.2 **Limitation of Liability**\
+VI Software shall not be liable for any direct, indirect, incidental, consequential, or punitive damages, including loss of data, loss of revenue, or interruption of service, arising from the use or inability to use the Platform, even if VI Software has been advised of the possibility of such damages.
+
+***
+
+### **8. MODIFICATIONS TO THE AGREEMENT**
+
+VI Software reserves the right to amend, modify, or update the terms of this Agreement at any time. Such amendments will be published on the official Platform. It is the Licensee's responsibility to review this Agreement periodically. Continued use of the Platform after any changes constitutes acceptance of the revised terms.
+
+***
+
+### **9. DISPUTE RESOLUTION**
+
+9.1 **Dispute Resolution Mechanism**\
+Any disputes arising from this Agreement or the use of the Platform shall be resolved through binding arbitration under the laws of Spain. The Licensee and VI Software agree to submit any disputes to a mutually agreed-upon arbitrator. The arbitration shall take place at a location determined at the sole discretion of VI Software, and the award may be enforced in any court of competent jurisdiction.
+
+9.2 **Governing Law**\
+This Agreement shall be governed by and construed in accordance with the laws of the Valencian Community, Spain, without regard to its conflict of law principles.
+
+***
+
+### **10. ACKNOWLEDGEMENT**
+
+By utilizing the Platform, the Licensee acknowledges that they have read, understood, and agreed to be bound by the terms and conditions of this Agreement. The Licensee also affirms their compliance with all applicable laws and regulations governing their use of the Platform.
