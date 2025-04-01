@@ -99,7 +99,7 @@ VI Software does not mediate user disputes. Users must resolve conflicts indepen
 
 #### **11.2 Appeals**
 
-Users may appeal any punishment by contacting [**support@visoftware.dev**](mailto:support@visoftware.dev).
+Users may appeal any punishment by contacting support (at) visoftware (dot) dev.
 
 ### **12. Service Availability & Liability**
 
