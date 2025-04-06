@@ -107,7 +107,7 @@ VI Software is not responsible for downtime and is not obligated to maintain ser
 
 ### **13. Governing Law & Jurisdiction**
 
-This Agreement is governed by the laws of Spain. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of a province or autonomous community in Spain, as chosen by the Company.
+This Agreement is governed by the laws of Spain. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of the Valencian Community, as chosen by the Company.
 
 ***
 
