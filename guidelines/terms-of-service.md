@@ -73,13 +73,34 @@ Servers may not host or promote any content that is:
 * Offensive, including adult material, hate speech, or discriminatory language;
 * Designed to enable or promote cheating, hacking, or unfair gameplay advantages.
 
-### **8. Intellectual Property & Image Rights**
+### 8. Intellectual Property & License to Use Content
 
-All platform content must comply with applicable laws, and users are responsible for verifying their compliance with local and international regulations. VI Software reserves the right to use any image created on a server within the platform for API integration and as a launcher background. Users may opt out upon request, and VI Software may seek additional permissions in certain cases.
+By submitting, uploading, or otherwise providing any content to VI Software, including but not limited to logos, videos, names, in-game creations (e.g., buildings), modifications, or other materials (collectively, "User Content"), you, as the owner of such content or as an authorized agent with the full right and authority to grant this license, grant to VI Software a non-exclusive, worldwide, royalty-free, irrevocable, sublicensable, and transferable license to use, modify, display, distribute, and reproduce the User Content in connection with the operation and promotion of the platform and its associated services. This license includes, but is not limited to, the right to incorporate User Content in platform features, such as API integration, as a launcher background, and promotional materials related to the platform.
+
+#### 8.2 License Scope
+
+This license is granted solely for the purpose of enabling VI Software to use the User Content as described in these Terms of Service. You retain all rights to your User Content, subject to the license granted to VI Software. VI Software may use and share your User Content as part of its ongoing operations, including in public-facing materials such as marketing, social media, and within the platform itself.
+
+#### 8.3 User Content Compliance and Ownership
+
+By submitting or uploading User Content, you represent and warrant that:
+
+* You are either the owner of the User Content or an authorized agent with full authority to grant the rights and licenses specified in these Terms of Service.
+* The User Content does not infringe upon the intellectual property rights, rights of publicity, or privacy rights of any third party and complies with all applicable copyright, trademark, and intellectual property laws.
+* The User Content is not subject to any third-party rights or claims that would interfere with the rights granted to VI Software under these Terms of Service.
+
+You are solely responsible for ensuring that your User Content complies with all applicable laws, regulations, and legal requirements, and you agree to indemnify and hold harmless VI Software for any breach of these representations or warranties.
 
 ### **9. Monetization Restrictions**
 
-Monetization of any kind is strictly prohibited unless the user possesses a valid commercial license issued by VI Software.
+Monetization of any kind through the VI Software platform is strictly prohibited unless the user possesses a valid commercial license issued by VI Software. This applies to, but is not limited to:
+
+* **Streamers and Content Creators**: If a streamer is playing on a server hosted on the VI Software platform, the server must hold a valid commercial license for the streamer to monetize any content related to their participation in that server. If the server does not have a commercial license, the streamer is not permitted to generate revenue through monetized streams, ad revenue, sponsorships, or donations related to their gameplay on that server.
+* **Server Owners and Marketers**: Server owners and any individuals or entities marketing, promoting, or operating servers for profit on the platform must possess a valid commercial license issued by VI Software. This includes, but is not limited to, individuals who run or advertise paid access to servers, offer in-game purchases (such as selling premium items, access to exclusive content, or currency), or otherwise profit from server operations. The commercial license must be held by the server owner or operator responsible for the monetization activities, including server marketers who promote paid servers.
+* **Compliance with Mojang EULA**: All servers hosted on the VI Software platform must comply with the Mojang End User License Agreement (EULA) regarding monetization. Servers must not engage in practices that violate the Mojang EULA, including but not limited to selling in-game advantages, loot boxes, or charging for access to gameplay that violates Mojang's monetization policies. Any server found in violation of the Mojang EULA will be subject to immediate suspension or removal from the platform.
+* **Third-Party Partnerships and Sponsorships**: If a user, such as a server owner or content creator, engages in any third-party commercial partnerships, promotions, or sponsorships that involve the use of VI Software's platform, content, or servers, the user must possess a valid commercial license issued by VI Software before entering into such agreements.
+
+Monetization is only permitted when explicitly allowed through a formal agreement with VI Software. Any user found violating these restrictions, including any violations of the Mojang EULA, may face account suspension, termination, and legal action.
 
 ### **10. Security & Privacy Compliance**
 
@@ -105,7 +126,17 @@ Users may appeal any punishment by contacting support (at) visoftware (dot) dev.
 
 VI Software is not responsible for downtime and is not obligated to maintain server availability. Users opting into beta features acknowledge the absence of warranties and must comply with beta-specific policies.
 
-### **13. Governing Law & Jurisdiction**
+
+
+### **13. Age Requirement & Guardian Responsibility**
+
+VI Software is not intended for users under the age of 16. We do not knowingly collect, process, or store personal data from anyone under this age. If you are under 16, you must not use the platform or provide any personal information.
+
+For users under the age of 18 (or the legal age of majority in your jurisdiction, whichever is greater), access to the platform is only permitted with the express permission and direct supervision of a parent or legal guardian. In such cases, the parent or guardian assumes full responsibility for the minor's use of the Services, including any actions, interactions, and consequences.
+
+VI Software strongly advises against allowing minors under the age of 18 to use the platform due to the nature of online interactions and user-generated content. Any use by minors is entirely at the discretion and risk of the parent or guardian.
+
+### **14. Governing Law & Jurisdiction**
 
 This Agreement is governed by the laws of Spain. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of the Valencian Community, as chosen by the Company.
 
