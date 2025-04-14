@@ -8,29 +8,40 @@
 
 By accessing, utilizing, or otherwise engaging with the VI Software platform, including but not limited to the creation, administration, or participation in modded Minecraft servers (hereinafter referred to as the "Services"), you, as a user, explicitly acknowledge, accept, and agree to be legally bound by the terms and conditions outlined in this Terms of Service agreement ("Agreement" or "Terms"). If you do not consent to any provision contained herein, you must immediately discontinue use of the Services. These Terms apply to all users of the platform, including, without limitation, individuals or entities acting as server creators ("Licensees"), players, contributors, and any other category of user engaging with the Services.
 
+#### **Definitions:**
+
+* **"Licensees"**: Users who engage in the creation, administration, or hosting of modded Minecraft servers through the VI Software platform. This includes individuals or entities managing or operating servers.
+* **"User Content"**: Any content submitted, uploaded, or otherwise provided by users, including but not limited to logos, videos, in-game creations, modifications, or other materials.
+* **"Platform License Agreement" (PLA)**: The agreement that governs the operational, managerial, and content-related aspects of hosted modded Minecraft servers.
+* **"Player"**: Users who participate in modded servers hosted via the VI Software platform but do not engage in server creation or administration.
+
 ### **2. Platform Overview**
 
-VI Software provides an integrated software solution that facilitates the development, deployment, customization, and management of modded Minecraft servers. Users of the platform may configure their servers with proprietary or third-party modifications, participate in multiplayer environments, and interact within an expanded Minecraft gameplay ecosystem through the VI Software launcher. The platform may, at its discretion, introduce additional features, expansions, and software enhancements, which may be subject to supplemental terms.
+VI Software provides users with an integrated platform that enables the creation, administration, and management of modded Minecraft servers. Users may modify and configure their servers with proprietary and third-party modifications, engage in multiplayer gaming, and interact with the larger modded Minecraft ecosystem through the VI Software launcher. The platform may, at its discretion, introduce additional features, enhancements, and software tools, subject to terms set forth by VI Software. These Terms shall apply to all users interacting with the platform, including server administrators (referred to as "Licensees"), players, and any other individuals accessing the platform.
 
 ### **3. Server Governance & Platform License Agreement (PLA)**
 
-#### **3.1 Licensees (Server Creators)**
 
-Users who engage in the creation, administration, or hosting of servers via the VI Software platform ("Licensees") are required to enter into and adhere to the terms set forth in the VI Software **Platform License Agreement** ("PLA"). The PLA governs the operational, managerial, and content-related aspects of hosted servers. In the event of any conflict or inconsistency between this Terms of Service Agreement and the PLA, the provisions of the PLA shall supersede and prevail in matters concerning server governance and administration.
 
-#### **3.2 Player Access & Responsibilities**
+**3.1 Licensees (Server Creators)**
 
-Players accessing modded servers via the VI Software launcher must comply with both these Terms of Service and any supplemental regulations or conditions imposed by individual Licensees within their respective server environments. Notwithstanding such additional regulations, all server-related activities shall remain subject to overarching governance by the PLA.
+Individuals or entities who create, configure, or manage modded Minecraft servers via VI Software (hereinafter referred to as "Licensees") are bound by the additional terms outlined in the Platform License Agreement (PLA), which governs the operational, technical, and legal requirements of hosting servers. In the event of any conflict or inconsistency between the provisions of this Agreement and the PLA, the PLA shall supersede and control with respect to server governance.
+
+**3.2 Players**
+
+Players who engage with the modded servers created by Licensees are bound by both these Terms of Service and any specific terms or rules set forth by the Licensee, provided such rules are consistent with the provisions of these Terms and the PLA.
 
 ### **4. Account Creation, Security, and Responsibilities**
 
 #### **4.1 Registration Requirements**
 
-To access and utilize the Services, users must establish an account with VI Software. By registering, users affirm that all information provided is accurate, current, and complete. Users are required to update account details as necessary to maintain accuracy. VI Software reserves the right to suspend or terminate accounts that provide false or misleading information.
+In order to access and use the Services, users are required to register an account with VI Software. By registering, users represent and warrant that all information provided during the registration process is accurate, complete, and up to date. Failure to provide accurate information may result in the suspension or termination of the user’s account. VI Software reserves the right to verify the accuracy of all registration information and to suspend or terminate accounts found to contain false or misleading details.
 
-#### **4.2 Account Security & Liability**
+**4.2 Security Responsibilities and Liabilities**
 
-Users are solely responsible for safeguarding their account credentials and maintaining the confidentiality of their login information. Any actions undertaken through a user’s account shall be presumed to have been authorized by the account holder. VI Software shall not bear liability for unauthorized access, data breaches, or misuse resulting from user negligence. Users are strongly encouraged to enable multi-factor authentication (MFA) where applicable to enhance security.
+Users are solely responsible for the security and confidentiality of their account credentials. All actions undertaken through a user’s account shall be presumed to have been authorized by the account holder. Users are obligated to promptly report to VI Software any suspected unauthorized use of their account. However, the user acknowledges that VI Software is not obligated to provide assistance, and the responsibility to secure their account lies solely with the user. While users may contact VI Software for assistance in cases of unauthorized access, such assistance is not guaranteed and is provided at VI Software’s discretion.
+
+Notwithstanding the above, in the event that an account is compromised, VI Software retains the right to enforce penalties, including suspension or termination of the account, if it is determined that the user violated any terms of this Agreement, the Platform License Agreement (PLA), or other applicable rules or laws during or after the unauthorized access.
 
 ### **5. License Grant for Service Utilization**
 
@@ -56,7 +67,7 @@ Content that promotes violence, hate speech, exploitation, or illegal activities
 
 #### **6.3 Adherence to the Code of Conduct**
 
-Users must comply with VI Software’s official **Code of Conduct**, which outlines behavioral expectations designed to preserve a positive and inclusive community environment.
+Users must comply with VI Software’s official [**Code of Conduct**](code-of-conduct.md), which outlines behavioral expectations designed to preserve a positive and inclusive community environment.
 
 ### **7. Server Content Management & Compliance**
 
@@ -104,13 +115,13 @@ Monetization is only permitted through formal agreements with VI Software. Users
 
 ### **10. Security & Privacy Compliance**
 
-#### **10.1 Data Protection & GDPR Compliance**
+**10.1 Privacy Policy**
 
-VI Software adheres to all applicable data protection laws, including GDPR. All personal data collected is governed by our Privacy Policy.
+All personal information submitted by users is governed by our [Privacy Policy](https://docs.visoftware.dev/vi-software/guidelines/privacy-policy), which is incorporated into these Terms by reference. Users acknowledge that they have read, understood, and agree to the terms of the Privacy Policy.
 
-#### **10.2 Server Security Measures**
+**10.2 Security Obligations**
 
-Licensees must secure their servers against unauthorized access and vulnerabilities. VI Software may take action in response to security breaches.
+Licensees are responsible for ensuring that their servers are secure and protected against unauthorized access or exploitation. VI Software may assist with security issues but is not responsible for ensuring the security of individual user servers. VI Software reserves the right to suspend or terminate accounts that are compromised or used in violation of the security obligations outlined herein.
 
 ### **11. Dispute Resolution & Appeals**
 
@@ -118,15 +129,13 @@ Licensees must secure their servers against unauthorized access and vulnerabilit
 
 VI Software does not mediate user disputes. Users must resolve conflicts independently or through available platform tools.
 
-#### **11.2 Appeals**
+**11.2 Appeals Process**
 
-Users may appeal any punishment by contacting support (at) visoftware (dot) dev.
+Users may submit appeals for account suspensions or content removal by contacting support However, VI Software reserves the right to deny any appeal and the final decision regarding any appeal is at the sole discretion of VI Software.
 
 ### **12. Service Availability & Liability**
 
 VI Software is not responsible for downtime and is not obligated to maintain server availability. Users opting into beta features acknowledge the absence of warranties and must comply with beta-specific policies.
-
-
 
 ### **13. Age Requirement & Guardian Responsibility**
 
@@ -136,9 +145,9 @@ For users under the age of 18 (or the legal age of majority in your jurisdiction
 
 VI Software strongly advises against allowing minors under the age of 18 to use the platform due to the nature of online interactions and user-generated content. Any use by minors is entirely at the discretion and risk of the parent or guardian.
 
-### **14. Governing Law & Jurisdiction**
+#### 14. **Governing Law & Jurisdiction**
 
-This Agreement is governed by the laws of Spain. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of the Valencian Community, as chosen by the Company.
+These Terms shall be governed by and construed in accordance with the laws of Spain. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts located within the Valencian Community, Spain.
 
 ***
 
