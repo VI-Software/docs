@@ -21,7 +21,6 @@ VI Software reserves the right to apply **stronger or lighter** actions at its s
 ### 🧾 Enforcement Principles
 
 * **Three-Strike Rule:** Each category allows for up to 3 repeated offenses unless otherwise marked as “instant termination.”
-* **24-Month Rule:** Accounts older than **24 months** will be **permanently terminated** after a third offense.
 * **Zero-Tolerance Categories:** Some violations result in **instant permanent bans** upon first offense (clearly marked below).
 * **Appeals:** **All users may appeal** sanctions unless the cause is:
   * Verified **IP infringement**
