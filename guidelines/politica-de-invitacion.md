@@ -50,7 +50,7 @@ En VI Software, valoramos la participación activa de nuestros clientes y su des
 
     a. Los clientes son responsables de revisar esta política de invitación y garantizar el cumplimiento de sus disposiciones tanto por parte de ellos mismos como de sus invitados.
 
-    b. Los invitados están sujetos a las mismas políticas que los clientes. Se considerará una falta disciplinaria grave por parte del cliente cuando un invitado viole una de las siguientes políticas globales: [Términos de Servicio](https://docs-vis.galnod.com/vi-software/guidelines/terminos-de-servicio), [Código de Conducta](https://docs-vis.galnod.com/vi-software/guidelines/codigo-de-conducta), [Contribution Guidelines](https://docs-vis.galnod.com/vi-software/guidelines/contribution-guidelines) o [Pull Request Guidelines](https://docs-vis.galnod.com/vi-software/guidelines/pull-request-guidelines).
+    b. Los invitados están sujetos a las mismas políticas que los clientes. Se considerará una falta disciplinaria grave por parte del cliente cuando un invitado viole una de las siguientes políticas globales: [Términos de Servicio](https://docs-vis.galnod.com/vi-software/guidelines/terminos-de-servicio), [Licencia de Acuerdo de la Plataforma](platform-license-agreement.md), [Código de Conducta](https://docs-vis.galnod.com/vi-software/guidelines/codigo-de-conducta), [Contribution Guidelines](https://docs-vis.galnod.com/vi-software/guidelines/contribution-guidelines) o [Pull Request Guidelines](https://docs-vis.galnod.com/vi-software/guidelines/pull-request-guidelines).
 
     c. Los clientes deben asegurarse de que sus invitados estén completamente informados y comprendan las políticas y directrices de VI Software antes de invitarlos a unirse a la plataforma.
 
