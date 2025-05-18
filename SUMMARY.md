@@ -2,6 +2,7 @@
 
 * [VI Software](README.md)
   * [🧑‍🤝‍🧑 Contributors](vi-software/contributors.md)
+  * [💻 Platform Infrastructure](readme/platform-infrastructure.md)
 * [VIS Launcher](vis-launcher/README.md)
   * [ℹ️ About VIS Launcher](vis-launcher/modpack.md)
   * [📒 Privacy Policy](vis-launcher/privacy-policy.md)
