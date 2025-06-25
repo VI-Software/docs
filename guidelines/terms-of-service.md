@@ -78,14 +78,14 @@ Users shall not engage in any conduct or submit content that:
 * Distributes malware, unauthorized modifications, cheats, hacks, or exploits designed to disrupt Services or gain unfair advantage.
 * Violates intellectual property or privacy rights of any third party.
 
-#### 5.3 Contributor Code of Conduct (Rule A)
+#### 5.3 Contributor Code of Conduct
 
 Contributors must adhere to platform policies and maintain the integrity of mod development. In particular:
 
 * Contributors are **prohibited from disabling, sabotaging, or interfering with core platform features**, including but not limited to update delivery systems, telemetry, or platform services.
 * Any action taken to undermine VI Software’s operations or user experience through client-side or server-side code may result in **permanent revocation of contributor status and liability under Section 10 (Indemnification).**
 
-#### 5.4 Server Creator Responsibilities (Rule B)
+#### 5.4 Server Creator Responsibilities
 
 Licensees who manage or operate servers must:
 
@@ -93,7 +93,7 @@ Licensees who manage or operate servers must:
 * Avoid the use of automation tools, mods, or scripting that alter platform APIs or violate rate-limiting or platform messaging expectations.
 * Violations will result in **immediate suspension of server licenses** and may include **legal action or enforcement under Section 11 (Termination and Suspension).**
 
-#### 5.5 Malicious or Adversarial Behavior (Rule C)
+#### 5.5 Malicious or Adversarial Behavior
 
 Users, Licensees, or Contributors must not:
 
@@ -101,7 +101,7 @@ Users, Licensees, or Contributors must not:
 * Circumvent enforcement actions or logging systems implemented by VI Software or its authorized agents.
 * Offending accounts may be **permanently terminated**, and legal claims may be initiated in accordance with Section 12 (Governing Law and Dispute Resolution).
 
-#### 5.6 Reporting and Compliance Cooperation (Rule D)
+#### 5.6 Reporting and Compliance Cooperation
 
 All users are expected to act in good faith and must:
 
