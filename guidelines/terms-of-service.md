@@ -1,154 +1,133 @@
 # 📔 Terms of Service
 
-**VI SOFTWARE TERMS OF SERVICE**\
-**Effective Date: January 1, 2025**
------------------------------------
+## VI SOFTWARE TERMS OF SERVICE
 
-### **1. Acceptance of Terms**
-
-By accessing, utilizing, or otherwise engaging with the VI Software platform, including but not limited to the creation, administration, or participation in modded Minecraft servers (hereinafter referred to as the "Services"), you, as a user, explicitly acknowledge, accept, and agree to be legally bound by the terms and conditions outlined in this Terms of Service agreement ("Agreement" or "Terms"). If you do not consent to any provision contained herein, you must immediately discontinue use of the Services. These Terms apply to all users of the platform, including, without limitation, individuals or entities acting as server creators ("Licensees"), players, contributors, and any other category of user engaging with the Services.
-
-#### **Definitions:**
-
-* **"Licensees"**: Users who engage in the creation, administration, or hosting of modded Minecraft servers through the VI Software platform. This includes individuals or entities managing or operating servers.
-* **"User Content"**: Any content submitted, uploaded, or otherwise provided by users, including but not limited to logos, videos, in-game creations, modifications, or other materials.
-* **"Platform License Agreement" (PLA)**: The agreement that governs the operational, managerial, and content-related aspects of hosted modded Minecraft servers.
-* **"Player"**: Users who participate in modded servers hosted via the VI Software platform but do not engage in server creation or administration.
-
-### **2. Platform Overview**
-
-VI Software provides users with an integrated platform that enables the creation, administration, and management of modded Minecraft servers. Users may modify and configure their servers with proprietary and third-party modifications, engage in multiplayer gaming, and interact with the larger modded Minecraft ecosystem through the VI Software launcher. The platform may, at its discretion, introduce additional features, enhancements, and software tools, subject to terms set forth by VI Software. These Terms shall apply to all users interacting with the platform, including server administrators (referred to as "Licensees"), players, and any other individuals accessing the platform.
-
-### **3. Server Governance & Platform License Agreement (PLA)**
-
-
-
-**3.1 Licensees (Server Creators)**
-
-Individuals or entities who create, configure, or manage modded Minecraft servers via VI Software (hereinafter referred to as "Licensees") are bound by the additional terms outlined in the Platform License Agreement (PLA), which governs the operational, technical, and legal requirements of hosting servers. In the event of any conflict or inconsistency between the provisions of this Agreement and the PLA, the PLA shall supersede and control with respect to server governance.
-
-**3.2 Players**
-
-Players who engage with the modded servers created by Licensees are bound by both these Terms of Service and any specific terms or rules set forth by the Licensee, provided such rules are consistent with the provisions of these Terms and the PLA.
-
-### **4. Account Creation, Security, and Responsibilities**
-
-#### **4.1 Registration Requirements**
-
-In order to access and use the Services, users are required to register an account with VI Software. By registering, users represent and warrant that all information provided during the registration process is accurate, complete, and up to date. Failure to provide accurate information may result in the suspension or termination of the user’s account. VI Software reserves the right to verify the accuracy of all registration information and to suspend or terminate accounts found to contain false or misleading details.
-
-**4.2 Security Responsibilities and Liabilities**
-
-Users are solely responsible for the security and confidentiality of their account credentials. All actions undertaken through a user’s account shall be presumed to have been authorized by the account holder. Users are obligated to promptly report to VI Software any suspected unauthorized use of their account. However, the user acknowledges that VI Software is not obligated to provide assistance, and the responsibility to secure their account lies solely with the user. While users may contact VI Software for assistance in cases of unauthorized access, such assistance is not guaranteed and is provided at VI Software’s discretion.
-
-Notwithstanding the above, in the event that an account is compromised, VI Software retains the right to enforce penalties, including suspension or termination of the account, if it is determined that the user violated any terms of this Agreement, the Platform License Agreement (PLA), or other applicable rules or laws during or after the unauthorized access.
-
-### **5. License Grant for Service Utilization**
-
-#### **5.1 License for Server Creators (Licensees)**
-
-VI Software grants Licensees a non-exclusive, non-transferable, revocable, and limited license to utilize the platform for the purposes of establishing, configuring, and managing modded Minecraft servers. Licensees are obligated to ensure full compliance with both this Agreement and the PLA.
-
-#### **5.2 Player Access Rights**
-
-Players are granted a limited, non-exclusive, non-transferable license to access and interact with modded Minecraft servers through the VI Software launcher, contingent upon adherence to all applicable regulations and conduct expectations.
-
-### **6. Platform Usage Guidelines**
-
-To sustain a secure and respectful community, all users agree to the following:
-
-#### **6.1 Respect & Non-Discrimination**
-
-Users shall not engage in conduct that is harassing, defamatory, discriminatory, or otherwise offensive based on race, ethnicity, gender, religion, sexual orientation, disability status, or any other protected characteristic.
-
-#### **6.2 Prohibition of Harmful Content**
-
-Content that promotes violence, hate speech, exploitation, or illegal activities is expressly prohibited. This includes, but is not limited to, the distribution of malware, unauthorized modifications ("cheats"), and exploitative software.
-
-#### **6.3 Adherence to the Code of Conduct**
-
-Users must comply with VI Software’s official [**Code of Conduct**](code-of-conduct.md), which outlines behavioral expectations designed to preserve a positive and inclusive community environment.
-
-### **7. Server Content Management & Compliance**
-
-#### **7.1 Licensee Responsibilities**
-
-Licensees are responsible for all content hosted on their servers, including but not limited to custom modifications, plugins, and in-game configurations. Licensees must ensure that all content complies with intellectual property laws and applicable regulations.
-
-#### **7.2 Prohibited Server Content**
-
-Servers may not host or promote any content that is:
-
-* Illegal or in violation of applicable laws;
-* Malicious, including but not limited to software designed to exploit or harm users;
-* Offensive, including adult material, hate speech, or discriminatory language;
-* Designed to enable or promote cheating, hacking, or unfair gameplay advantages.
-
-### 8. Intellectual Property & License to Use Content
-
-By submitting, uploading, or otherwise providing any content to VI Software, including but not limited to logos, videos, names, in-game creations (e.g., buildings), modifications, or other materials (collectively, "User Content"), you, as the owner of such content or as an authorized agent with the full right and authority to grant this license, grant to VI Software a non-exclusive, worldwide, royalty-free, irrevocable, sublicensable, and transferable license to use, modify, display, distribute, and reproduce the User Content in connection with the operation and promotion of the platform and its associated services. This license includes, but is not limited to, the right to incorporate User Content in platform features, such as API integration, as a launcher background, and promotional materials related to the platform.
-
-#### 8.2 License Scope
-
-This license is granted solely for the purpose of enabling VI Software to use the User Content as described in these Terms of Service. You retain all rights to your User Content, subject to the license granted to VI Software. VI Software may use and share your User Content as part of its ongoing operations, including in public-facing materials such as marketing, social media, and within the platform itself.
-
-#### 8.3 User Content Compliance and Ownership
-
-By submitting or uploading User Content, you represent and warrant that:
-
-* You are either the owner of the User Content or an authorized agent with full authority to grant the rights and licenses specified in these Terms of Service.
-* The User Content does not infringe upon the intellectual property rights, rights of publicity, or privacy rights of any third party and complies with all applicable copyright, trademark, and intellectual property laws.
-* The User Content is not subject to any third-party rights or claims that would interfere with the rights granted to VI Software under these Terms of Service.
-
-You are solely responsible for ensuring that your User Content complies with all applicable laws, regulations, and legal requirements, and you agree to indemnify and hold harmless VI Software for any breach of these representations or warranties.
-
-### **9. Monetization Restrictions**
-
-Monetization of any kind through the VI Software platform is strictly prohibited unless the user possesses a valid commercial license issued by VI Software. This applies to the following:
-
-* Server owners and any individuals or entities involved in marketing, promoting, or operating servers for profit on the platform must hold a valid commercial license issued by VI Software. This includes, but is not limited to, individuals who run or advertise servers with paid access, sell in-game items, offer premium content, or otherwise profit from the operation or promotion of servers. The commercial license must be held by the server owner or operator responsible for any monetization activities.
-* Streamers and content creators who wish to monetize their streams or videos related to gameplay on the VI Software platform must ensure that the server they are playing on holds a valid commercial license. If the server does not have a commercial license, streamers are prohibited from monetizing any content related to their participation in that server, including ad revenue, sponsorships, donations, or other forms of commercial gain.
-* All servers hosted on the VI Software platform must comply with the [Mojang End User License Agreement (EULA)](https://www.minecraft.net/en-us/eula) regarding monetization. Servers must not engage in practices that violate the Mojang EULA, including, but not limited to, selling in-game advantages, offering loot boxes, or charging for access to gameplay in violation of Mojang's monetization policies. Any server found in violation of the Mojang EULA will be subject to immediate suspension or removal from the platform.
-* Users, including server owners and content creators, who wish to enter into third-party commercial partnerships, promotions, or sponsorships related to their use of VI Software’s platform, content, or servers, must hold a valid commercial license issued by VI Software. These partnerships may not take place unless the user has received the appropriate commercial license.
-
-Monetization is only permitted through formal agreements with VI Software. Users found violating these restrictions, including breaches of the Mojang EULA, may face account suspension, termination, and legal action.
-
-### **10. Security & Privacy Compliance**
-
-**10.1 Privacy Policy**
-
-All personal information submitted by users is governed by our [Privacy Policy](https://docs.visoftware.dev/vi-software/guidelines/privacy-policy), which is incorporated into these Terms by reference. Users acknowledge that they have read, understood, and agree to the terms of the Privacy Policy.
-
-**10.2 Security Obligations**
-
-Licensees are responsible for ensuring that their servers are secure and protected against unauthorized access or exploitation. VI Software may assist with security issues but is not responsible for ensuring the security of individual user servers. VI Software reserves the right to suspend or terminate accounts that are compromised or used in violation of the security obligations outlined herein.
-
-### **11. Dispute Resolution & Appeals**
-
-#### **11.1 Disputes Between Users**
-
-VI Software does not mediate user disputes. Users must resolve conflicts independently or through available platform tools.
-
-**11.2 Appeals Process**
-
-Users may submit appeals for account suspensions or content removal by contacting support However, VI Software reserves the right to deny any appeal and the final decision regarding any appeal is at the sole discretion of VI Software.
-
-### **12. Service Availability & Liability**
-
-VI Software is not responsible for downtime and is not obligated to maintain server availability. Users opting into beta features acknowledge the absence of warranties and must comply with beta-specific policies.
-
-### **13. Age Requirement & Guardian Responsibility**
-
-VI Software is not intended for users under the age of 16. We do not knowingly collect, process, or store personal data from anyone under this age. If you are under 16, you must not use the platform or provide any personal information.
-
-For users under the age of 18 (or the legal age of majority in your jurisdiction, whichever is greater), access to the platform is only permitted with the express permission and direct supervision of a parent or legal guardian. In such cases, the parent or guardian assumes full responsibility for the minor's use of the Services, including any actions, interactions, and consequences.
-
-VI Software strongly advises against allowing minors under the age of 18 to use the platform due to the nature of online interactions and user-generated content. Any use by minors is entirely at the discretion and risk of the parent or guardian.
-
-#### 14. **Governing Law & Jurisdiction**
-
-These Terms shall be governed by and construed in accordance with the laws of Spain. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts located within the Valencian Community, Spain.
+**Effective Date:** January 1, 2025
 
 ***
 
-For inquiries regarding these Terms of Service, please contact us at support (at) visoftware (dot) dev.
+### 1. General Provisions and Acceptance of Terms
+
+1.1 **Scope and Applicability** These Terms of Service (“Terms,” “Agreement”) constitute a legally binding contract between you, whether an individual or legal entity (“User,” “You”), and VI Software (“VI Software,” “we,” “our,” or “us”), governing your access to and use of all services, platforms, applications, software, websites, and any related resources provided by VI Software (collectively, the “Services”). By accessing, utilizing, or otherwise engaging with the Services, including but not limited to the creation, administration, or participation in modded Minecraft servers, you irrevocably acknowledge that you have read, understood, and agreed to be bound by these Terms in their entirety without modification. If you do not fully agree to these Terms, you are strictly prohibited from using the Services and must immediately discontinue any access or usage.
+
+1.2 **Legal Capacity and Authorization** By accepting these Terms, you represent and warrant that you possess the full legal capacity, authority, and rights to enter into this Agreement and to be bound thereby. If acting on behalf of a corporate or organizational entity, you warrant that you have the requisite authority to bind such entity.
+
+***
+
+### 2. Description of Services and Platform Overview
+
+2.1 **Provision of Platform Services** VI Software operates an integrated digital ecosystem enabling users to create, host, manage, and participate in modded Minecraft servers (“Servers”), utilizing both proprietary and third-party modifications, software extensions, and interactive features accessible via the VI Software launcher and associated applications. The Services are designed to facilitate seamless multiplayer interaction, server customization, and community engagement within the modded Minecraft ecosystem.
+
+2.2 **Modifications and Updates** VI Software reserves the exclusive right, at its sole discretion and without prior notice, to modify, suspend, discontinue, or restrict any aspect of the Services, including introducing new features, enhancements, subscription plans, advertising mechanisms, or other monetization tools, subject to compliance with applicable laws and regulations.
+
+***
+
+### 3. User Roles, Account Creation, and Security Obligations
+
+3.1 **User Roles** Users of the Services are classified as follows:
+
+* **Licensees:** Entities or individuals who create, configure, administer, or host Servers (“Server Creators”).
+* **Players:** Users who participate in gameplay or interaction on Servers without administrative privileges.
+* **Contributors:** Individuals providing content, code, or other contributions to the platform or community.
+
+3.2 **Account Registration** Users are required to register a valid account to access the Services. All registration information must be truthful, accurate, current, and complete. VI Software reserves the right to suspend or terminate accounts that contain fraudulent, inaccurate, or incomplete information or that otherwise violate these Terms.
+
+3.3 **Security and Confidentiality** You bear sole responsibility for maintaining the confidentiality and security of your account credentials, including passwords and authentication factors. Any activity conducted through your account is presumed authorized by you. You agree to promptly notify VI Software of any unauthorized use or security breaches. VI Software disclaims any liability arising from your failure to secure your account.
+
+***
+
+### 4. Platform License and User Obligations
+
+4.1 **License Grant to Licensees** VI Software hereby grants Licensees a revocable, non-exclusive, non-transferable, limited license to access and utilize the Services strictly for the purposes of establishing, operating, and managing modded Minecraft Servers. This license is contingent upon full compliance with these Terms and the separately governed [Platform License Agreement (PLA](platform-license-agreement.md)), which sets forth additional operational and legal obligations specific to server governance.
+
+4.2 **License to Players** Players are granted a limited, revocable, non-exclusive license to access and interact with Servers hosted via the VI Software platform in accordance with these Terms and any applicable Server-specific rules.
+
+***
+
+### 5. User Conduct and Platform Usage Policies
+
+5.1 **Compliance with Laws and Regulations** All users agree to abide by all applicable national, supranational, and international laws, statutes, regulations, and treaties, including those related to data protection, intellectual property, and cybercrime.
+
+5.2 **Prohibited Conduct** Users shall not engage in any conduct or submit content that:
+
+* Is unlawful, fraudulent, or malicious.
+* Constitutes harassment, discrimination, defamation, or hate speech based on race, ethnicity, religion, gender, sexual orientation, disability, or any protected class.
+* Promotes violence, terrorism, or criminal activity.
+* Distributes malware, unauthorized modifications, cheats, hacks, or exploits designed to disrupt Services or gain unfair advantage.
+* Violates intellectual property or privacy rights of any third party.
+
+5.3 **Content Moderation and Enforcement** VI Software reserves the right, but does not undertake the obligation, to monitor, moderate, remove, or restrict any User Content or behavior that violates these Terms or is otherwise objectionable or harmful.
+
+***
+
+### 6. Intellectual Property Rights and User Content License
+
+6.1 **User Content Ownership and License** Users retain ownership of their User Content but grant VI Software a perpetual, irrevocable, worldwide, royalty-free, sublicensable, transferable license to use, reproduce, modify, adapt, publish, translate, distribute, and publicly display such content for the operation, promotion, and improvement of the platform.
+
+6.2 **Warranties and Representations** Users represent and warrant that they possess all necessary rights to grant the above license and that their User Content does not infringe on the rights of any third party.
+
+***
+
+### 7. Monetization and Commercial Use Restrictions
+
+7.1 **General Prohibition on Unauthorized Monetization** Monetization of any kind through the VI Software platform or its Services is strictly prohibited without prior explicit authorization and a valid commercial license issued by VI Software.
+
+7.2 **Prohibited Activities** Specifically, servers and users are prohibited from offering or facilitating any form of pay-to-win monetization, including but not limited to the sale of in-game items, privileges, or advantages, in strict compliance with Mojang’s End User License Agreement and related policies. Violation of these restrictions may result in immediate account suspension, termination, and potential legal action.
+
+7.3 **Authorized Monetization** Any permitted monetization activities must be conducted pursuant to formal agreements with VI Software and in full compliance with all applicable laws.
+
+***
+
+### 8. Security, Privacy, and Data Protection
+
+8.1 **Privacy Policy** VI Software’s collection, processing, and storage of personal data are governed by its Privacy Policy, incorporated herein by reference. Users acknowledge and consent to such practices.
+
+8.2 **Server Security** Licensees must ensure that their Servers are secured against unauthorized access and vulnerabilities. VI Software disclaims liability for any security breaches or data loss occurring on user-managed Servers.
+
+***
+
+### 9. Limitation of Liability, Disclaimers, and Force Majeure
+
+9.1 **Force Majeure Events** VI Software shall not be liable for any failure or delay in performing obligations under these Terms attributable to causes beyond its reasonable control, including but not limited to natural disasters, acts of war or terrorism, governmental actions, labor disputes, pandemics, or other unforeseeable circumstances (“Force Majeure Events”).
+
+9.2 **Exclusion of Liability** To the maximum extent permitted by applicable law, VI Software disclaims all warranties, express or implied, and shall not be liable for any direct, indirect, incidental, consequential, punitive, special, or exemplary damages arising from use or inability to use the Services, including loss of profits, data, or goodwill, regardless of legal theory or prior notice.
+
+9.3 **Third-Party Liability** VI Software explicitly disclaims any responsibility or liability for the acts, omissions, content, or conduct of any third parties, including Licensees, Players, contributors, or external service providers. Users engage with third parties at their own risk.
+
+***
+
+### 10. Indemnification
+
+You agree to indemnify, defend, and hold harmless VI Software, its affiliates, officers, directors, employees, agents, and licensors from and against any and all claims, demands, liabilities, damages, losses, costs, and expenses, including reasonable attorneys’ fees, arising out of or related to:
+
+* Your use or misuse of the Services.
+* Any violation of these Terms or applicable law.
+* Any infringement or alleged infringement of any intellectual property or other rights of any third party.
+
+***
+
+### 11. Termination and Suspension
+
+VI Software reserves the absolute right to suspend, restrict, or terminate any User’s access to the Services at any time for cause, including but not limited to breaches of these Terms, violations of law, or disruptive behavior, with or without prior notice.
+
+***
+
+### 12. Governing Law and Dispute Resolution
+
+This Agreement shall be exclusively governed by and construed in accordance with the laws of the **Kingdom of Spain**, without regard to its conflict of law principles. The parties irrevocably consent to the exclusive jurisdiction and venue of the competent courts located within the Valencian Community, Kingdom of Spain, for the resolution of any disputes arising out of or in connection with this Agreement.
+
+***
+
+### 13. Miscellaneous Provisions
+
+13.1 **Severability** If any provision of these Terms is found to be invalid or unenforceable under applicable law, such provision shall be deemed modified or severed to the minimum extent necessary, and the remainder of the Terms shall remain in full force and effect.
+
+13.2 **Entire Agreement** These Terms, together with any referenced agreements and policies, constitute the entire agreement between you and VI Software regarding your use of the Services and supersede all prior communications.
+
+13.3 **Amendments** VI Software reserves the right to modify these Terms at any time by posting updated versions on the platform. Continued use after notice constitutes acceptance of such modifications.
+
+***
+
+For any inquiries or further clarifications regarding these Terms of Service, please contact:
+
+[support@visoftware.dev](mailto:support@visoftware.dev)
