@@ -88,5 +88,4 @@ Patch Flow:
 > * **Support Window:** June 2025 → May 2026
 > * **Updates:** Security patches and critical bug fixes only
 >
-> This is the **recommended release** for production use.\
-> Users who need stability should stay on Astral Ocelot until the next ASR in June 2026.
+> This is the **recommended release** for production use.
