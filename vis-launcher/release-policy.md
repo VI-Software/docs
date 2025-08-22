@@ -1,3 +1,7 @@
+---
+icon: book
+---
+
 # Release Policy
 
 ## Release Channels
@@ -74,3 +78,15 @@ Patch Flow:
 - Critical fixes & security patches → cherry-picked to ASR
 - Nightly / Pre-release builds promoted from Canary
 ```
+
+### Current ASR
+
+> **ℹ️ Current Annual Stability Release (ASR):**
+>
+> * **Codename:** Astral Ocelot (v2.1)
+> * **Release Month:** April 2025
+> * **Support Window:** June 2025 → May 2026
+> * **Updates:** Security patches and critical bug fixes only
+>
+> This is the **recommended release** for production use.\
+> Users who need stability should stay on Astral Ocelot until the next ASR in June 2026.
