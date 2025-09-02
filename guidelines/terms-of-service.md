@@ -54,7 +54,7 @@ You bear sole responsibility for maintaining the confidentiality and security of
 
 #### 4.1 License Grant to Licensees
 
-VI Software hereby grants Licensees a revocable, non-exclusive, non-transferable, limited license to access and utilize the Services strictly for the purposes of establishing, operating, and managing modded Minecraft Servers. This license is contingent upon full compliance with these Terms and the separately governed Platform License Agreement (PLA), which sets forth additional operational and legal obligations specific to server governance.
+VI Software hereby grants Licensees a revocable, non-exclusive, non-transferable, limited license to access and utilize the Services strictly for the purposes of establishing, operating, and managing modded Minecraft Servers. This license is contingent upon full compliance with these Terms and the separately governed [Platform License Agreement (PLA)](platform-license-agreement.md), which sets forth additional operational and legal obligations specific to server governance.
 
 #### 4.2 License to Players
 
@@ -179,7 +179,7 @@ You hereby irrevocably undertake to indemnify, defend, and hold harmless VI Soft
 * (b) Any breach or alleged breach by you of these Terms of Service or any applicable laws or regulations;
 * (c) Any infringement or alleged infringement of any intellectual property rights, proprietary rights, or other rights of third parties resulting from your content, actions, or omissions;
 
-**provided, however**, that this indemnification obligation shall not extend to any Losses arising from the gross negligence, willful misconduct, or breach of applicable data protection laws (including, without limitation, the European Union General Data Protection Regulation (GDPR)) by VI Software or any of the Indemnified Parties.
+**provided, however**, that this indemnification obligation shall not extend to any Losses arising from the gross negligence, willful misconduct, or breach of applicable data protection laws (including, without limitation, the European Union General Data Protection Regulation (GDPR) by VI Software or any of the Indemnified Parties.
 
 This indemnity shall survive the termination or expiration of your access to or use of the Services.
 
