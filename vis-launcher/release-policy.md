@@ -89,3 +89,12 @@ Patch Flow:
 > * **Updates:** Security patches and critical bug fixes only
 >
 > This is the **recommended release** for production use.
+
+### Upcoming ARS
+
+* **Codename:** Quantum Falcon (v2.2)
+* **Release Month:** TBD
+* **Support Window:** June 2026 → May 2027
+* **Updates:** Security patches and critical bug fixes only
+
+This WILL BE the **recommended release** for production use once it finishes development.
