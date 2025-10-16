@@ -27,6 +27,7 @@
   * [📔 Contribution Guidelines](guidelines/contribution-guidelines.md)
   * [📔 Contributor License Agreement](guidelines/contributor-license-agreement.md)
   * [📔 Fair Use Policy](guidelines/fair-use-policy.md)
+  * [📔 Copyright Takedown Guidance](guidelines/copyright-takedown-guidance.md)
   * [📔 Punishment Guidelines Policy (Terms)](guidelines/punishment-guidelines-policy-terms.md)
   * [📔 Política de Invitación](guidelines/politica-de-invitacion.md)
 * [Licencias](licencias/README.md)
