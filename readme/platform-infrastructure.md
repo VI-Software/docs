@@ -18,4 +18,5 @@ Deployments and updates (including the launcher) are handled via GitHub Actions.
 
 While we don’t have automated failover in place yet, we prioritize data safety and privacy. Sensitive user data is encrypted, and we follow GDPR-compliant practices—including tools for users to delete their accounts if they choose.
 
-<figure><img src="../.gitbook/assets/5yayj7t.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/infra (1).png" alt=""><figcaption></figcaption></figure>
+
