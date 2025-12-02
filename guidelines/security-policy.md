@@ -1,7 +1,5 @@
 # 📔 Security Policy
 
-## **Security Policy - VI Software Backend Services & Web Infrastructure** <a href="#undefined" id="undefined"></a>
-
 ### **Our Commitment to Security** <a href="#undefined" id="undefined"></a>
 
 VI Software takes the security of our backend services, APIs, authentication systems, and web infrastructure seriously. As the platform powering VIS Launcher and serving our modding community, we handle user authentication, API access, server configurations, and sensitive data that require robust protection.
