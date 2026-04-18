@@ -20,10 +20,6 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
-					label: 'Guidelines',
-					autogenerate: { directory: 'guidelines' },
-				},
-				{
 					label: 'Infrastructure',
 					autogenerate: { directory: 'infra' },
 				},
@@ -39,6 +35,10 @@ export default defineConfig({
 					label: 'VIS Yggdrasil Auth',
 					autogenerate: { directory: 'vis-yggdrasil-auth' },
 				},
+				{
+					label: 'Guidelines',
+					autogenerate: { directory: 'guidelines' },
+				},				
 			],
 		}),
 	],
