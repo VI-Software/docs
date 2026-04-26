@@ -11,7 +11,7 @@ The Production Standard. This version is released every June and remains support
 * Priority: Maximum reliability and uptime.
 * Updates: Restricted to security patches and critical bug fixes.
 * Restrictions: No new features or breaking changes are introduced during the lifecycle.
-* Version Tag: `X.Y.Z-lts`
+* Version Tag: `X.Y.Z`
 
 ### 2. Stable
 The Interim Track. This channel provides a middle ground for users who need new features sooner than the annual LTS cycle allows.
@@ -19,7 +19,7 @@ The Interim Track. This channel provides a middle ground for users who need new 
 * Priority: Feature availability with validated stability.
 * Lifecycle: Short-lived; support ends immediately when a newer Stable or LTS version is released.
 * Updates: Receives security fixes and general bug fixes.
-* Version Tag: `X.Y.Z-stable`
+* Version Tag: `X.Y.Z`
 
 ### 3. Nightly / Pre-release
 The Development Track. This is the staging ground for features and improvements before they are promoted to a Stable or LTS release.
@@ -55,12 +55,13 @@ The Bleeding Edge. Every build from our CI/CD pipeline lands here first for imme
 
 ## Current Status
 
+Current Stable Release
+
+* Version: v2.2 (Quantum Falcon)
+* Target: June 2026 (LTS Promotion)
+* Status: Stable. This is the current feature-complete version. It is the designated candidate for the upcoming annual LTS cycle and will become the recommended production version next month.
+
 Current Production Release (LTS)
 * Version: v2.1 (Astral Ocelot)
 * Support: June 2025 – May 2026
-* Status: Recommended for all production environments.
-
-Upcoming Release
-* Version: v2.2 (Quantum Falcon)
-* Target: June 2026
-* Status: In development. This will become the recommended production version upon release.
+* Status: Maintenance. This version is approaching End-of-Life (EOL). It remains supported for existing production environments until June 2026, when it will be officially replaced by Quantum Falcon.
