@@ -55,13 +55,13 @@ The Bleeding Edge. Every build from our CI/CD pipeline lands here first for imme
 
 ## Current Status
 
-Current Stable Release
+Upcoming Stable Release
 
-* Version: v2.2 (Quantum Falcon)
-* Target: June 2026 (LTS Promotion)
-* Status: Stable. This is the current feature-complete version. It is the designated candidate for the upcoming annual LTS cycle and will become the recommended production version next month.
+* Version: TBD
+* Target: TBD
+* Status: TBD
 
 Current Production Release (LTS)
-* Version: v2.1 (Astral Ocelot)
-* Support: June 2025 – May 2026
-* Status: Maintenance. This version is approaching End-of-Life (EOL). It remains supported for existing production environments until June 2026, when it will be officially replaced by Quantum Falcon.
+* Version: v2.2 (Quantum Falcon)
+* Support: June 2026 – May 2027
+* Status: Supported
