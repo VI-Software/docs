@@ -1,43 +1,75 @@
 ---
-title: Download and Installation on Linux (amd64)
+title: Download and Installation Guide (Linux & Windows)
 ---
 
-{% hint style="warning" %}
-This guide has been written based on Kubuntu 23.10. It may change over time or differ slightly for other Linux-based systems.
-{% endhint %}
+## Step 1: Download the Launcher
 
-1. Go to [<mark style="color:blue;">https://github.com/VI-Software/vis-launcher/releases</mark>](https://github.com/VI-Software/vis-launcher/releases)
-2. Look for the latest stable version (By default, they are sorted from newest to oldest).
+1. Open your web browser and go to [visoftware.dev/launcher](https://visoftware.dev/launcher).
+2. The website will automatically attempt to detect your operating system:
+* Click the primary download button (e.g., Download for Windows or Download for Linux) at the top of the page.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>In this example, the newest version is 1.8.1.</p></figcaption></figure>
+## Step 2: Operating System Installation & Setup
 
-3. Download the version compatible with your operating system. In this tutorial, we are covering Linux-based systems, so we will download `VI-Software-Launcher-setup-(version).AppImage`.
-4. Open the folder where the file has been downloaded using your file explorer. In this case, we are using Dolphin. Open a terminal in the folder that contains the file as shown in the following image.
+### Option A: Installation on Windows
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-5. Now we'll give the file execution permissions so that it can be opened without issues. Run the following command
+1.By downloading, you acknowledge and agree to the Terms of Service, Privacy Policy, and Platform License Agreement.
+2. Locate the downloaded installer (`VI-Software-Launcher-setup-(version).exe`) in your Downloads folder and double-click to open it.
+> Note: If Windows SmartScreen displays a warning indicating the file is not signed, click More info and then select Run anyway.
 
 
+3. Setup Wizard:
+* Review the license agreement (if prompted) and click I Agree.
+* Choose Only for me and click Next.
+* Leave the installation path as default (recommended) and click Install.
+* Click Finish once the process completes to close the installer and launch the application.
 
-```sh
-chmod +x VI-Software-Launcher-setup-*.*.*.AppImage
-```
+---
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>There should be no additional output in the terminal if the command was executed successfully.</p></figcaption></figure>
+### Option B: Setup on Linux
 
-6. Once these steps are completed, you can close the terminal and run the file from the file explorer. If you prefer, an optional method for running it from the terminal is provided below.
+Before running the `.AppImage` file, you must make it executable. Choose one of the following methods depending on your desktop environment:
 
-Given that you have a terminal open in the directory where the file is located.
+#### Method 1: Using the Terminal
 
+1. Open your terminal and navigate to your download directory:
 ```bash
-./VI-Software-Launcher-setup-*.*.*.AppImage
+cd ~/Downloads
+
 ```
 
+2. Make the AppImage executable:
+```bash
+chmod +x VI-Software-Launcher-setup-*.AppImage
 
+```
 
-{% hint style="danger" %}
-This method can be problematic if there are multiple executable files for the launcher in the directory. Please remove any old versions to avoid conflicts.
-{% endhint %}
+#### Method 2: Using GNOME File Manager (Nautilus)
 
-That's it! You've completed the installation on Linux! 🎉🎉🥳🥳
+1. Open Files and locate your downloaded `.AppImage`.
+2. Right-click the file and select Properties.
+3. Navigate to the Permissions tab.
+4. Enable / check the box for "Allow executing file as program" (or "Executable as Program").
+5. Close the window.
+
+#### Method 3: Using KDE File Manager (Dolphin)
+
+1. Open Dolphin and locate your downloaded `.AppImage`.
+2. Right-click the file and select Properties (or press `Alt + Enter`).
+3. Switch to the Permissions tab.
+4. Check the "Is executable" box.
+5. Click OK.
+
+#### Running the Launcher on Linux
+
+* Graphical Launcher: Double-click the `.AppImage` file inside your file manager.
+* Terminal Launcher: Run the file from the command line:
+```bash
+./VI-Software-Launcher-setup-*.AppImage
+
+```
+
+> Warning: If launching via terminal, ensure you remove older `.AppImage` versions in the directory to avoid wildcard name conflicts.
+
+---
+
+That’s it! You have successfully installed the VI Software Launcher! 🎉🎉🥳🥳
